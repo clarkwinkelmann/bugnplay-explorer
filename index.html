@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>bugnplay explorer</title>
+		<meta name="author" content="Clark Winkelmann">
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+	</head>
+	<body>
+		<div id="explorer"></div>
+		<script src="https://code.jquery.com/jquery-2.2.2.min.js"></script>
+		<script src="https://fb.me/react-with-addons-0.14.8.min.js"></script>
+		<script src="https://fb.me/react-dom-0.14.8.min.js"></script>
+		<script src="script.js"></script>
+		<script>
+			/* global React, BugnplayExplorer */
+
+			$(function() {
+				React.render(React.createElement(BugnplayExplorer), document.getElementById('explorer'));
+			});
+		</script>
+	</body>
+</html>
