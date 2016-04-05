@@ -406,6 +406,16 @@ body {
 					.type-classroom   { color: #9365B8; }
 					.type-matu        { color: #553982; }
 				}
+
+				.loading {
+					position: absolute;
+					top: 50%;
+					left: 0;
+					right: 0;
+					text-align: center;
+					color: #ccc;
+					font-size: 3em;
+				}
 			}
 
 			.years-panel {

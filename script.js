@@ -141,6 +141,7 @@ var BugnplayExplorer = React.createClass({
 	mixins: [React.addons.LinkedStateMixin],
 	getInitialState: function() {
 		return {
+			loading: true,
 			projects: [],
 			graph: 'map',
 			highlight: 'category', // use null for none
@@ -163,7 +164,10 @@ var BugnplayExplorer = React.createClass({
 		$.ajax('/projects.json', {
 			dataType: 'json',
 			success: function(projects) {
-				this.setState({projects: projects});
+				this.setState({
+					loading: false,
+					projects: projects
+				});
 			}.bind(this),
 			error: function() {
 				alert('Error getting data');
@@ -570,7 +574,8 @@ var BugnplayExplorer = React.createClass({
 						]),
 						React.createElement('ul', {className: 'stacked-legends'}, this.state.filter_years.map(function(year) {
 							return React.createElement('li', {}, year);
-						}))
+						})),
+						React.createElement('div', {className: 'loading', style: {display: this.state.loading ? 'block' : 'none'}}, 'loading data...')
 					]),
 					React.createElement('div', {className: 'years-panel'},
 						React.createElement('ul', {className: 'years-selector'}, years.map(function(year) {
