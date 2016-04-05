@@ -339,6 +339,30 @@ var BugnplayExplorer = React.createClass({
 				left_pos = unused_spacing + unused_spacing * (unused_posx++ % unused_by_line);
 			}
 
+			var display_category = (function() {
+				switch(project.category) {
+					case 'audio-video':          return 'Audio/Video';
+					case 'web-words-games':      return 'Web/Words/Games';
+					case 'installation-robotic': return 'Installation/Robotic';
+				}
+			})();
+
+			var display_type = (function() {
+				switch(project.type) {
+					case 'independent': return 'Independent Project';
+					case 'classroom':   return 'Classroom Project';
+					case 'matu':        return 'Matu Project';
+				}
+			})();
+
+			var display_age = (function() {
+				switch(project.age_category) {
+					case 'kids':    return 'Kids (8-11)';
+					case 'juniors': return 'Juniors (12-16)';
+					case 'seniors': return 'Seniors (17-20)';
+				}
+			})();
+
 			return React.createElement('span', {
 				key: project.uid,
 				className: 'project' +
@@ -361,6 +385,11 @@ var BugnplayExplorer = React.createClass({
 					}),
 					React.createElement('div', {className: 'details'}, [
 						React.createElement('h3', {}, project.title),
+						React.createElement('ul', {className: 'categories'}, [
+							React.createElement('li', {}, display_category),
+							React.createElement('li', {}, display_type),
+							React.createElement('li', {}, display_age)
+						]),
 						React.createElement('div', {className: 'description'}, project.description),
 						React.createElement('ul', {className: 'members'}, project.members.map(function(member) {
 							return React.createElement('li', {},
@@ -371,7 +400,41 @@ var BugnplayExplorer = React.createClass({
 						})),
 						React.createElement('ul', {className: 'technologies'}, project.technologies.map(function(technology) {
 							return React.createElement('li', {}, technology);
-						}))
+						})),
+						React.createElement('ul', {className: 'links'}, [
+							React.createElement('li', {}, React.createElement('a', {href: project.url, target: '_blank'}, [
+								React.createElement('i', {className: 'icon fa fa-bookmark'}),
+								' Project on bugnplay.ch'
+							])),
+							project.links.map(function(link) {
+								var title = (function() {
+									switch(link.type) {
+										case 'website': return 'Visit website';
+										case 'video':   return 'View video';
+										case 'audio':   return 'Listen audio';
+										default: // includes case 'file':
+											if(link.title != null) {
+												return 'Document (' + link.title + ')';
+											}
+											return 'Additional document';
+									}
+								})();
+
+								var icon = (function() {
+									switch(link.type) {
+										case 'website': return 'link';
+										case 'video':   return 'film';
+										case 'audio':   return 'music';
+										default:        return 'file';
+									}
+								})();
+
+								return React.createElement('li', {}, React.createElement('a', {href: link.url, target: '_blank'}, [
+									React.createElement('i', {className: 'icon fa fa-' + icon}),
+									' ' + title
+								]));
+							})
+						])
 					])
 				])
 			]);
