@@ -130,6 +130,7 @@ var years = [
 	2008,
 	2009,
 	2010,
+	2011,
 	2012,
 	2013,
 	2014,
@@ -260,8 +261,10 @@ var BugnplayExplorer = React.createClass({
 
 				/**
 				 * Filter by type
+				 * We display projects having a type of `null` only when the three checkboxes are checked
 				 */
-				if(	project.type == 'independent' && !this.state.filter_type_independent ||
+				if(	project.type == null && !(this.state.filter_type_independent && this.state.filter_type_classroom && this.state.filter_type_matu) ||
+					project.type == 'independent' && !this.state.filter_type_independent ||
 					project.type == 'classroom'   && !this.state.filter_type_classroom   ||
 					project.type == 'matu'        && !this.state.filter_type_matu
 					) {
@@ -330,8 +333,10 @@ var BugnplayExplorer = React.createClass({
 
 				total_used++;
 			} else {
-				top_pos = 98 - 2 * Math.floor(unused_posx / 49);
-				left_pos = 2+ 2 * (unused_posx++ % 49);
+				var unused_spacing = 1;
+				var unused_by_line = 100/unused_spacing -1;
+				top_pos = 100 - unused_spacing - unused_spacing * Math.floor(unused_posx / unused_by_line);
+				left_pos = unused_spacing + unused_spacing * (unused_posx++ % unused_by_line);
 			}
 
 			return React.createElement('span', {
