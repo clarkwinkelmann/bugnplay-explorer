@@ -201,7 +201,7 @@ var BugnplayExplorer = React.createClass({
 
 		// TODO: apply the correct ratio according to reality
 		var map_width = 100; // %
-		var map_height = 80; // %
+		var map_height = 90; // %
 
 		var boundaries_factor = {
 			x: map_width / (ch_boundaries.right - ch_boundaries.left),
