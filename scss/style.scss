@@ -215,6 +215,16 @@ body {
 						margin-top: $project-size-unused/-2;
 					}
 
+					.icon {
+						line-height: 0;
+						font-size: 13px;
+						transition: 0.1s font-size;
+					}
+
+					&:hover .icon {
+						font-size: 20px;
+					}
+
 					.tooltip {
 						display: none;
 						position: absolute;
@@ -366,7 +376,7 @@ body {
 				.stacked-legends {
 					display: none;
 					position: absolute;
-					top: 82%;
+					top: 90%;
 					left: 0;
 					right: 0;
 					list-style: none;

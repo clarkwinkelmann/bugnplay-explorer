@@ -323,13 +323,13 @@ var BugnplayExplorer = React.createClass({
 						var total_columns = 3; // Only case other than 3 is one, but as we indicate the 2nd column for it, it ends in the middle after all
 						var current_block = this.state.filter_years.indexOf(project.year);
 						var projects_per_column = this.state.highlight == null ? 2 : 1;
-						var columns_spacing_in_percent = 2;
+						var columns_spacing_in_percent = 1.6;
 
 						left_pos = 100/total_years * current_block + 50/total_years;
 						left_pos += (column_in_graph+2-total_columns) * columns_spacing_in_percent * projects_per_column; // Slide to the middle of corresponding column
 						left_pos += ((stacked_used[project.year][column_in_graph] % projects_per_column) - (projects_per_column-1)/2) * columns_spacing_in_percent; // Slide to the correct project column inside the hightlight column
 
-						top_pos = 80 - 2 * Math.floor(stacked_used[project.year][column_in_graph] / (projects_per_column + 1));
+						top_pos = 90 - columns_spacing_in_percent * (Math.floor(stacked_used[project.year][column_in_graph] / projects_per_column) + 1);
 
 						stacked_used[project.year][column_in_graph]++;
 						break;
@@ -407,7 +407,7 @@ var BugnplayExplorer = React.createClass({
 						})),
 						React.createElement('ul', {className: 'links'}, [
 							React.createElement('li', {}, React.createElement('a', {href: project.url, target: '_blank'}, [
-								React.createElement('i', {className: 'icon fa fa-bookmark'}),
+								React.createElement('i', {className: 'fa fa-bookmark'}),
 								' Project on bugnplay.ch'
 							])),
 							project.links.map(function(link) {
@@ -434,7 +434,7 @@ var BugnplayExplorer = React.createClass({
 								})();
 
 								return React.createElement('li', {}, React.createElement('a', {href: link.url, target: '_blank'}, [
-									React.createElement('i', {className: 'icon fa fa-' + icon}),
+									React.createElement('i', {className: 'fa fa-' + icon}),
 									' ' + title
 								]));
 							})
