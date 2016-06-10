@@ -20404,6 +20404,37 @@
         ]
     },
     {
+        "uid": "1:2010048",
+        "year": 2010,
+        "title": "Pechsonde",
+        "age_category": "kids",
+        "cover_image": "http:\/\/projects.bugnplay.ch\/uploads\/2010048\/cover_57151.jpg",
+        "url": "http:\/\/projects.bugnplay.ch\/bugnplay\/library\/project.php?project=2010048",
+        "description": "Die abenteuerlichen Erlebnisse der kleinen Marssonde \u00abPechsonde\u00bb.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/projects.bugnplay.ch\/bugnplay\/library\/project.php?project=2010048&file=video_pechsonde.mov",
+                "type": "video",
+                "title": "Der Film \u00fcber eine vom Pech verfolgte Marssonde"
+            }
+        ],
+        "members": [
+            {
+                "name": "Beat Nairz",
+                "role": "leader",
+                "residence": null
+            }
+        ],
+        "technologies": [
+            "photoshop",
+            "iphoto",
+            "imovie",
+            "lego"
+        ]
+    },
+    {
         "uid": "1:2010047",
         "year": 2010,
         "title": "pingbots",
@@ -22067,6 +22098,54 @@
             },
             {
                 "name": "Odile Leuthardt",
+                "role": null,
+                "residence": null
+            },
+            {
+                "name": "Christian Graf",
+                "role": "coach",
+                "residence": null
+            }
+        ],
+        "technologies": [
+            "ulead-videostudio"
+        ]
+    },
+    {
+        "uid": "1:2008052",
+        "year": 2008,
+        "title": "75 cm",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/projects.bugnplay.ch\/uploads\/2008052\/cover_uvs080313002.jpg",
+        "url": "http:\/\/projects.bugnplay.ch\/bugnplay\/library\/project.php?project=2008052",
+        "description": "Der Film zeigt die Perspektive von einem Kleinkind",
+        "type": "classroom",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/1minute.minerva-schulen.ch",
+                "type": "website",
+                "title": null
+            },
+            {
+                "url": "http:\/\/projects.bugnplay.ch\/bugnplay\/library\/project.php?project=2008052&file=pdf_dokumentation_didem.pdf",
+                "type": null,
+                "title": "PDF"
+            },
+            {
+                "url": "http:\/\/projects.bugnplay.ch\/bugnplay\/library\/project.php?project=2008052&file=video_video.avi.wmv",
+                "type": "video",
+                "title": "Unser selbstgemachtes Video"
+            }
+        ],
+        "members": [
+            {
+                "name": "Didem Mercan",
+                "role": "leader",
+                "residence": null
+            },
+            {
+                "name": "Alessandra Fischer",
                 "role": null,
                 "residence": null
             },
