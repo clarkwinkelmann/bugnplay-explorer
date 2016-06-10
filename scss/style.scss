@@ -132,12 +132,12 @@ body {
 		z-index: 10;
 		background: $color-content-background;
 		box-shadow: $shadow-content;
+		max-height: 84%; // otherwise the vertical scroll in the panels has no effect
 
 		.highlight-panel,
 		.filter-panel,
 		.technologies-panel {
 			position: relative;
-			width: 300px;
 			padding: 0.5em;
 			border: 2px dashed transparent;
 			transition: 0.5s;
@@ -152,11 +152,26 @@ body {
 
 		.highlight-panel {
 			border-right-color: #eee;
+			width: 210px;
+
+			ul {
+				list-style: none;
+				padding: 0;
+			}
 		}
 
 		.filter-panel,
 		.technologies-panel {
 			border-left-color: #eee;
+		}
+
+		.filter-panel {
+			width: 230px;
+		}
+
+		.technologies-panel {
+			width: 340px;
+			overflow: auto;
 		}
 
 		.main-panel {
@@ -470,29 +485,17 @@ body {
 		}
 
 		.filters-block {
-			display: table;
-
 			.filters-group {
-				display: table-row;
-				border: none;
-				margin: 0;
-				padding: 0;
-
-				h3,
-				ul {
-					display: table-cell;
-					margin: 0;
-					padding: 0.5em 0;
-				}
-
 				h3 {
-					width: 5em;
 					font-size: 1em;
-					font-weight: normal;
+					font-weight: bold;
+					margin-bottom: 0;
 				}
 
 				ul {
 					list-style: none;
+					padding-left: 8px;
+					margin: 0;
 
 					li {
 						position: relative;
@@ -505,9 +508,10 @@ body {
 						.tooltip {
 							display: none;
 							position: absolute;
+							z-index: 200;
 							right: 100%;
 
-							$tooltip-width: 200px;
+							$tooltip-width: 180px;
 							$tooltip-min-height: 50px;
 							width: $tooltip-width;
 							min-height: $tooltip-min-height;
@@ -540,6 +544,18 @@ body {
 						}
 					}
 				}
+			}
+		}
+
+		.technologies-panel .filters-group ul li .tooltip {
+			right: auto;
+			left: 120px;
+
+			&::after {
+				left: auto;
+				right: 100%;
+				border-left: none;
+				border-right: $arrow-size solid #333;
 			}
 		}
 	}
