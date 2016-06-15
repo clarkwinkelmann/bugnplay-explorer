@@ -6,7 +6,6 @@
 
 /* global React */
 
-// TODO: add the rest of technologies supporty by bugnplay-parser
 var technologies = [{
 	category: 'Graphics',
 	items: [{
@@ -453,7 +452,8 @@ var years = [
 	2012,
 	2013,
 	2014,
-	2015
+	2015,
+	2016
 ];
 
 var BugnplayExplorer = React.createClass({
@@ -465,7 +465,7 @@ var BugnplayExplorer = React.createClass({
 			graph: 'map',
 			highlight: 'category', // use null for none
 			show_years_sidebyside: false,
-			filter_years: [2014, 2015],
+			filter_years: [2014, 2015, 2016],
 			filter_age_kids:    true,
 			filter_age_juniors: true,
 			filter_age_seniors: true,
@@ -709,6 +709,7 @@ var BugnplayExplorer = React.createClass({
 					React.createElement('div', {className: 'details'}, [
 						React.createElement('h3', {}, project.title),
 						React.createElement('ul', {className: 'categories'}, [
+							React.createElement('li', {}, project.year),
 							React.createElement('li', {}, display_category),
 							React.createElement('li', {}, display_type),
 							React.createElement('li', {}, display_age)
@@ -871,6 +872,10 @@ var BugnplayExplorer = React.createClass({
 					( // Display a message if the map is used with incompatible years
 						this.state.graph == 'map' && this.state.filter_years.some(function(year) { return year < 2014; }) ?
 						React.createElement('div', {className: 'notice-panel'}, 'Only projects from 2014 onwards can be displayed on the map !') : ''
+					),
+					( // Display a message if 2007 is selected with "type" hightlight (and only on stack as map cannot plot them anyway)
+						this.state.graph == 'stack' && this.state.filter_years.indexOf(2007) !== -1 && this.state.highlight == 'type' ?
+						React.createElement('div', {className: 'notice-panel'}, 'Projects from 2007 don\'t have a type attribute !') : ''
 					),
 					React.createElement('div', {
 						className: 'graph-panel' +

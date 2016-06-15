@@ -1,5 +1,3441 @@
 [
     {
+        "uid": "2:4165",
+        "year": 2016,
+        "title": "\"FindJ\" eine Virtual Reality Smartphone App",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4165\/render.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/4165\/",
+        "description": "FindJ ist eine Smartphone Applikation f\u00fcr Android. Die Applikation ist f\u00fcr eine Cardboard Virtual-Reality Brille konzipiert, kann jedoch auch ohne eine solche Brille genutzt werden. In FindJ gibt es ein kleines Spiel, in dem ein rotes J gefunden werden muss oder eine Achterbahnfahrt durch die Berge.",
+        "type": "independent",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/bit.ly\/FindJPlayStore",
+                "type": "website",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4165\/tutorial50mb.mp4",
+                "type": null,
+                "title": "Hier zeige ich die VR-Cardboard Brille und die wie die App FindJ darin funktioniert."
+            }
+        ],
+        "technologies": [
+            "gimp",
+            "maya",
+            "unity",
+            "adobe-premiere",
+            "cpp",
+            "android",
+            "audacity"
+        ],
+        "members": [
+            {
+                "name": "Jeremias Baur",
+                "role": "leader",
+                "residence": {
+                    "npa": "8048",
+                    "town": "Zuerich",
+                    "canton": "ZH",
+                    "lat": 47.3868,
+                    "lng": 8.4839
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3631",
+        "year": 2016,
+        "title": "\"Ins Licht\" - Animationsfilm",
+        "age_category": "seniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3631\/ana_ffnet_die_augen.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3631\/",
+        "description": "Ein junges M\u00e4dchen findet sich als Geist an ihrer eigenen Beerdigung wieder und sieht, wie ihr kleiner Bruder um sie weint.\n\nDen Kurzen Zeichentrickfilm habe ich 2015 als Maturaarbeit digital animiert.",
+        "type": "matu",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3631\/kurzfilm_ins_licht.mov",
+                "type": "video",
+                "title": "Der Film"
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3631\/von_der_skizze_bis_zum_animationsfilm_dokumentation.pdf",
+                "type": null,
+                "title": "Die schriftliche Dokumentation meiner Maturaarbeit"
+            }
+        ],
+        "technologies": [
+            "photoshop",
+            "imovie"
+        ],
+        "members": [
+            {
+                "name": "Zoe R\u00f6llin",
+                "role": "leader",
+                "residence": {
+                    "npa": "4132",
+                    "town": "Muttenz",
+                    "canton": "BL",
+                    "lat": 47.5228,
+                    "lng": 7.6478
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3927",
+        "year": 2016,
+        "title": "4M\u00e4dchen,4Charaktere",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3927\/screenshot_1128.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3927\/",
+        "description": "4 verschiedene Charaktere treffen sich.Sie haben nichts gemeinsam.Stadt,Dorf,Bauernhof und Waldm\u00e4dchen kann das wohl gut gehen??",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3927\/video_annalisacarlucci_480.mov",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+
+        ],
+        "members": [
+            {
+                "name": "Annalisa Carlucci",
+                "role": "leader",
+                "residence": {
+                    "npa": "5412",
+                    "town": "Gebenstorf",
+                    "canton": "AG",
+                    "lat": 47.48,
+                    "lng": 8.244
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3749",
+        "year": 2016,
+        "title": "Alien Axel",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3749\/vorspann.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3749\/",
+        "description": "Zuerst haben wir ein Buchcover aus Papier und Karton hergestellt. Wir haben alles selbst erfunden: Titel, Autor, Verlag, Frontcover-Zeichnung UND den Inhalt (Inhaltsangabe auf der R\u00fcckseite).\nDann haben wir einen Kinotrailer zu unserm Buch hergestellt (iMovie).",
+        "type": "classroom",
+        "category": "audio-video",
+        "links": [
+
+        ],
+        "technologies": [
+            "imovie"
+        ],
+        "members": [
+            {
+                "name": "Svenja Neuh\u00e4usler",
+                "role": "leader",
+                "residence": {
+                    "npa": "7312",
+                    "town": "Pf\u00e4fers",
+                    "canton": "SG",
+                    "lat": 46.9756,
+                    "lng": 9.4931
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3530",
+        "year": 2016,
+        "title": "Astro-tech",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3530\/eeel.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3530\/",
+        "description": "Ein abgest\u00fcrztes Raumschiff wird gefunden.\ndoch war es ein Unfall?\nAuf der Spur einer Intrige.",
+        "type": "independent",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3530\/bugnplay_sb2.zip",
+                "type": null,
+                "title": "Man braucht Scratch2"
+            },
+            {
+                "url": "http:\/\/scratch.mit.edu\/projects\/103660004\/",
+                "type": "website",
+                "title": "Man braucht Scratch2"
+            }
+        ],
+        "technologies": [
+            "gimp",
+            "scratch",
+            "garageband"
+        ],
+        "members": [
+            {
+                "name": "Raphael Zumbrunn",
+                "role": "leader",
+                "residence": {
+                    "npa": "3715",
+                    "town": "Adelboden",
+                    "canton": "BE",
+                    "lat": 46.47,
+                    "lng": 7.5582
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3884",
+        "year": 2016,
+        "title": "Autowerkstatt",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3884\/bild1.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3884\/",
+        "description": "Der Lego Mindstorms Roboter bringt die gew\u00fcnschten Legoteile, die mit einem Chip ausgew\u00e4hlt wurden. Mit diesen Teilen kann anschliessend ein Auto zusammengebaut werden.",
+        "type": "independent",
+        "category": "installation-robotic",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3884\/autowerkstatt.wmv",
+                "type": "video",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3884\/autowerkstatt.pdf",
+                "type": null,
+                "title": "Gesamtdokumentation"
+            }
+        ],
+        "technologies": [
+            "gimp",
+            "lego",
+            "mindstorms"
+        ],
+        "members": [
+            {
+                "name": "Yanis Rau",
+                "role": "leader",
+                "residence": {
+                    "npa": "3308",
+                    "town": "Grafenried",
+                    "canton": "BE",
+                    "lat": 47.0784,
+                    "lng": 7.5076
+                }
+            },
+            {
+                "name": "Karin Rau",
+                "role": "coach",
+                "residence": {
+                    "npa": "3308",
+                    "town": "Grafenried",
+                    "canton": "BE",
+                    "lat": 47.0784,
+                    "lng": 7.5076
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:4017",
+        "year": 2016,
+        "title": "Biken mit dem Mini Monster Truck",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4017\/biken_mit_mini_monster_truck.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/4017\/",
+        "description": "Ich m\u00f6chte mein Velo umbauen, so dass ich Velo fahren und gleichzeitig mein Modellauto steuern kann.",
+        "type": "independent",
+        "category": "installation-robotic",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4017\/biken_mit_mini_monster_truck_video.mp4",
+                "type": "video",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4017\/wie_ich_darauf_kam_mit_zu_machen.pdf",
+                "type": null,
+                "title": "wie ich darauf kam mit zu machen"
+            }
+        ],
+        "technologies": [
+
+        ],
+        "members": [
+            {
+                "name": "Miro Sieber",
+                "role": "leader",
+                "residence": {
+                    "npa": "5415",
+                    "town": "Nussbaumen",
+                    "canton": "AG",
+                    "lat": 47.489,
+                    "lng": 8.3171
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3517",
+        "year": 2016,
+        "title": "Bob en folie",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3517\/photo6.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3517\/",
+        "description": "Circuit de bob miniature en Lego et autres mat\u00e9riaux.\nLe mod\u00e8le pour nos r\u00e9flexions est le Bob Suisse et le Matterhorn Blitz d'Europa Park.",
+        "type": "independent",
+        "category": "installation-robotic",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3517\/film_bob3.mp4",
+                "type": "video",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3517\/rapport_bob1.pdf",
+                "type": null,
+                "title": null
+            }
+        ],
+        "technologies": [
+            "lego",
+            "mindstorms"
+        ],
+        "members": [
+            {
+                "name": "Adrien Cuenot",
+                "role": "leader",
+                "residence": {
+                    "npa": "1824",
+                    "town": "Caux",
+                    "canton": "VD",
+                    "lat": 46.448,
+                    "lng": 6.9784
+                }
+            },
+            {
+                "name": "Matt\u00e9o Cornaz",
+                "role": null,
+                "residence": {
+                    "npa": "1823",
+                    "town": "Glion",
+                    "canton": "VD",
+                    "lat": 46.4351,
+                    "lng": 6.9284
+                }
+            },
+            {
+                "name": "Fabien Cuenot",
+                "role": null,
+                "residence": {
+                    "npa": "1824",
+                    "town": "Caux",
+                    "canton": "VD",
+                    "lat": 46.448,
+                    "lng": 6.9784
+                }
+            },
+            {
+                "name": "Martine Cuenot",
+                "role": "coach",
+                "residence": {
+                    "npa": "1824",
+                    "town": "Caux",
+                    "canton": "VD",
+                    "lat": 46.448,
+                    "lng": 6.9784
+                }
+            },
+            {
+                "name": "Philippe Cornaz",
+                "role": "coach",
+                "residence": {
+                    "npa": "1823",
+                    "town": "Glion",
+                    "canton": "VD",
+                    "lat": 46.4351,
+                    "lng": 6.9284
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3827",
+        "year": 2016,
+        "title": "bugnplay explorer",
+        "age_category": "seniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3827\/bugnplayexplorer-map.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3827\/",
+        "description": "Explorez l'historique des projets bugnplay de mani\u00e8re in\u00e9dite !",
+        "type": "independent",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/bugnplayexplorer.clarkwinkelmann.com\/",
+                "type": "website",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "php"
+        ],
+        "members": [
+            {
+                "name": "Clark Winkelmann",
+                "role": "leader",
+                "residence": {
+                    "npa": "2856",
+                    "town": "Bo\u00e9court",
+                    "canton": "JU",
+                    "lat": 47.3582,
+                    "lng": 7.2163
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3685",
+        "year": 2016,
+        "title": "Charly-Smiles",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3685\/1_p1030430.190x140.jpeg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3685\/",
+        "description": "Wir machen einen Roboter, der Zeichen zeichnen kann, zum Beispiel einen Smiley.",
+        "type": "classroom",
+        "category": "installation-robotic",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3685\/charly-film.mp4",
+                "type": "video",
+                "title": ":)"
+            }
+        ],
+        "technologies": [
+            "imovie",
+            "lego",
+            "mindstorms"
+        ],
+        "members": [
+            {
+                "name": "Schreppers Ariana",
+                "role": "leader",
+                "residence": {
+                    "npa": "8852",
+                    "town": "Altendorf",
+                    "canton": "SZ",
+                    "lat": 47.1783,
+                    "lng": 8.8256
+                }
+            },
+            {
+                "name": "Timo Schreppers",
+                "role": null,
+                "residence": {
+                    "npa": "8852",
+                    "town": "Altendorf",
+                    "canton": "SZ",
+                    "lat": 47.1783,
+                    "lng": 8.8256
+                }
+            },
+            {
+                "name": "Lea Friedlos",
+                "role": null,
+                "residence": {
+                    "npa": "8852",
+                    "town": "Altendorf",
+                    "canton": "SZ",
+                    "lat": 47.1783,
+                    "lng": 8.8256
+                }
+            },
+            {
+                "name": "Lena R\u00f6thlin",
+                "role": null,
+                "residence": {
+                    "npa": "8852",
+                    "town": "Altendorf",
+                    "canton": "SZ",
+                    "lat": 47.1783,
+                    "lng": 8.8256
+                }
+            },
+            {
+                "name": "Robin Kuster",
+                "role": null,
+                "residence": {
+                    "npa": "8852",
+                    "town": "Altendorf",
+                    "canton": "SZ",
+                    "lat": 47.1783,
+                    "lng": 8.8256
+                }
+            },
+            {
+                "name": "Monika Schmucki",
+                "role": "coach",
+                "residence": {
+                    "npa": "8852",
+                    "town": "Altendorf",
+                    "canton": "SZ",
+                    "lat": 47.1783,
+                    "lng": 8.8256
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3627",
+        "year": 2016,
+        "title": "Clicker Action",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3627\/menu.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3627\/",
+        "description": "Clicker Action est un jeu vid\u00e9o d'arcade que j'ai d\u00e9velopp\u00e9.\nVotre objectif est de battre divers monstres afin d'avoir un maximum de points!\nCliquez sur ''Right'' pour tirer \u00e0 droite et ''Left'' pour tirer \u00e0 gauche.\nMais attention! Chaque monstre battu fera appara\u00eetre un ou plusieurs squelettes.",
+        "type": "independent",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3627\/clicker_action.zip",
+                "type": "file",
+                "title": "Fichier .zip contenant le fichier ex\u00e9cutable de mon jeu."
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3627\/info_clicker_action_le_vraiment_bon.pdf",
+                "type": null,
+                "title": "Explication d\u00e9taill\u00e9e du fichier."
+            }
+        ],
+        "technologies": [
+            "game-maker",
+            "audacity"
+        ],
+        "members": [
+            {
+                "name": "Alexandre Mazuir",
+                "role": "leader",
+                "residence": {
+                    "npa": "1296",
+                    "town": "Coppet",
+                    "canton": "VD",
+                    "lat": 46.3207,
+                    "lng": 6.1892
+                }
+            },
+            {
+                "name": "Gabriel Thullen",
+                "role": "coach",
+                "residence": {
+                    "npa": "1233",
+                    "town": "Lully",
+                    "canton": "GE",
+                    "lat": 46.1754,
+                    "lng": 6.0664
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3910",
+        "year": 2016,
+        "title": "CNC-Fr\u00e4se",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3910\/30_03_13.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3910\/",
+        "description": "Das Ziel der Projektarbeit war es, eine voll funktionsf\u00e4hige CNC-Fr\u00e4se komplett selbst zu bauen, was mir auch gr\u00f6sstenteils gelungen ist. Nur mechanischen Bauteile musste ich fertig kaufen. Den Rest habe ich selbst entworfen und gel\u00f6tet.",
+        "type": "matu",
+        "category": "installation-robotic",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3910\/vid_20160110_185755066.mov",
+                "type": "video",
+                "title": "Dies ist ein Testlauf. Sie war zu diesem Zeitpunkt in der Testphase weshalb die Antriebsriemen noch nicht eingeh\u00e4ngt waren, weswegen sie sich nicht bewegt. Momentan habe ich mit Elektronikproblemen zu k\u00e4mpfen. Deshalb habe ich leider kein aktuelles Video."
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3910\/baubericht_cnc-fraese.pdf",
+                "type": null,
+                "title": "Die komplette Projektdokumentation"
+            }
+        ],
+        "technologies": [
+            "inkscape"
+        ],
+        "members": [
+            {
+                "name": "Florin Berger",
+                "role": "leader",
+                "residence": {
+                    "npa": "8049",
+                    "town": "Z\u00fcrich",
+                    "canton": "ZH",
+                    "lat": 47.4087,
+                    "lng": 8.5004
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3562",
+        "year": 2016,
+        "title": "Coin Collection",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3562\/screen_level1.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3562\/",
+        "description": "Ich programmiere ein Game in dem man M\u00fcnzen sammeln muss um ins n\u00e4chste Level zu kommen. damit es nicht zu einfach ist baue ich noch Gefahren ein.",
+        "type": "independent",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/worlds.kodugamelab.com\/world\/vsV6Vn4gvUao82j4cc3e1A==",
+                "type": "website",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3562\/coin_collection_installation.pdf",
+                "type": null,
+                "title": "Das ist die Anleitung um mein Spiel zu spielen."
+            }
+        ],
+        "technologies": [
+
+        ],
+        "members": [
+            {
+                "name": "Sam Roland Lauener",
+                "role": "leader",
+                "residence": {
+                    "npa": "3472",
+                    "town": "Wynigen",
+                    "canton": "BE",
+                    "lat": 47.1015,
+                    "lng": 7.6899
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3801",
+        "year": 2016,
+        "title": "Colorful city",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3801\/stadt_1.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3801\/",
+        "description": "Die graue, triste Stadt wird von drei Tieren so ver\u00e4ndert, dass eine farbenfrohe, nat\u00fcrliche Stadt entsteht.",
+        "type": "classroom",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3801\/videostadtneuweb.wmv",
+                "type": "video",
+                "title": "\"Colorful City\" von Eliane Moine"
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3801\/aufbau_stadt.jpg",
+                "type": null,
+                "title": null
+            }
+        ],
+        "technologies": [
+            "garageband"
+        ],
+        "members": [
+            {
+                "name": "Eliane Moine",
+                "role": "leader",
+                "residence": {
+                    "npa": "8051",
+                    "town": "Z\u00fcrich",
+                    "canton": "ZH",
+                    "lat": 47.3996,
+                    "lng": 8.5788
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3805",
+        "year": 2016,
+        "title": "Conception et programmation d'un robot dessinateur de texte",
+        "age_category": "seniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3805\/logo_drawbluebot_final_bugnplay.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3805\/",
+        "description": "Ce projet consiste en la cr\u00e9ation d'un robot et d'une application capables de communiquer ensemble par Bluetooth. Le robot \u00e9crira alors le texte envoy\u00e9 par la tablette sur une feuille de papier.\n\nVid\u00e9o en HD ici: https:\/\/youtu.be\/bAR0ZR7m2m8",
+        "type": "independent",
+        "category": "installation-robotic",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3805\/montage_drawbluebot_540p60.mp4",
+                "type": "video",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3805\/poster_orange_a4.jpg",
+                "type": null,
+                "title": "Poster d\u00e9crivant en le robot."
+            }
+        ],
+        "technologies": [
+            "photoshop",
+            "mit-app-inventor",
+            "arduino"
+        ],
+        "members": [
+            {
+                "name": "Rapha\u00ebl V\u00f6geli",
+                "role": "leader",
+                "residence": {
+                    "npa": "1018",
+                    "town": "Lausanne",
+                    "canton": "VD",
+                    "lat": 46.5388,
+                    "lng": 6.6286
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3876",
+        "year": 2016,
+        "title": "Das Monowheel der \"STEAM-Brothers\"",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3876\/monowheel_029.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3876\/",
+        "description": "Wir m\u00f6chten das Gef\u00fchl des Fahrens mit einem fantastischen Monowheel selbst einmal erleben. Deshalb haben wir aus Holz ein eigenes fahrbares Monowheel gebaut.\nUnser BLOG heisst \"THE STEAMBROTHERS\" - http:\/\/steambrothers.jimdo.ch. JIMDO ist eine kostenfreie Plattform und einfach super.",
+        "type": "independent",
+        "category": "installation-robotic",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3876\/bugnplay_monowheel.mov",
+                "type": "video",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3876\/monowheel_01_sketch.jpg",
+                "type": null,
+                "title": "Zeichnung 1"
+            }
+        ],
+        "technologies": [
+
+        ],
+        "members": [
+            {
+                "name": "Kai T\u00e4nnler",
+                "role": "leader",
+                "residence": {
+                    "npa": "8482",
+                    "town": "Sennhof Winterthur",
+                    "canton": "ZH",
+                    "lat": 47.4674,
+                    "lng": 8.758
+                }
+            },
+            {
+                "name": "Lani T\u00e4nnler",
+                "role": null,
+                "residence": {
+                    "npa": "8482",
+                    "town": "Sennhof Winterthur",
+                    "canton": "ZH",
+                    "lat": 47.4674,
+                    "lng": 8.758
+                }
+            },
+            {
+                "name": "Dani T\u00e4nnler",
+                "role": "coach",
+                "residence": {
+                    "npa": "8482",
+                    "town": "Sennhof Winterthur",
+                    "canton": "ZH",
+                    "lat": 47.4674,
+                    "lng": 8.758
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3809",
+        "year": 2016,
+        "title": "Das Vademecum als App       Ein Hilfsmittel f\u00fcr Alles",
+        "age_category": "seniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3809\/wpid-20130930_104343.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3809\/",
+        "description": "Meine Maturaarbeit ist eine Konzeptarbeit, bei der ich versucht habe, alle Hilfsmittel, die am Gymnasium Kloster Disentis gebraucht werden, in einer App zu vereinen. Als Grundlage wurde das Hilfsmittel \"Vademecum\" verwendet.\nMit Hilfe einer Umfrage habe ich versucht herauszufinden, wie die Sch\u00fcleri",
+        "type": "matu",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3809\/matura_endversion.pdf",
+                "type": "file",
+                "title": "Meine Maturaarbeit\/Projektarbeit als PDF-Datei \/ Meine Konzeptarbeit."
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3809\/app_pr_sentation_f_r_arbeit.pdf",
+                "type": null,
+                "title": "Das Grundkonzept der App ohne die vierte Funktion der Abwechslung."
+            }
+        ],
+        "technologies": [
+            "photoshop",
+            "mspowerpoint"
+        ],
+        "members": [
+            {
+                "name": "Noah Weber",
+                "role": "leader",
+                "residence": {
+                    "npa": "7152",
+                    "town": "Sagogn",
+                    "canton": "GR",
+                    "lat": 46.7987,
+                    "lng": 9.281
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3788",
+        "year": 2016,
+        "title": "Der bessere Wohnort...",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3788\/blender.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3788\/",
+        "description": "Ein Alien ist auf der Erde. Ein Mensch will ins All. \nSo beginnt die Geschichte.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3788\/25te_version.mp4",
+                "type": "video",
+                "title": "Im ganzen habe ich 25 Versionen der Video gemacht. Jede Version hatte mehr Material oder war verbessert. Mit der 25ten Version war ich endlich zufrieden!"
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3788\/bluebox.pdf",
+                "type": null,
+                "title": "Mit der Bluebox-Technik habe ich die letzte Szene gemacht (mein Vater hat mir geholfen)"
+            }
+        ],
+        "technologies": [
+            "blender",
+            "windows-movie-maker"
+        ],
+        "members": [
+            {
+                "name": "Gaspard H\u00fcnenberger",
+                "role": "leader",
+                "residence": {
+                    "npa": "8304",
+                    "town": "Wallisellen",
+                    "canton": "ZH",
+                    "lat": 47.4212,
+                    "lng": 8.5963
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3742",
+        "year": 2016,
+        "title": "Der kleine Troll- Vom Bilderbuch zum H\u00f6rbuch",
+        "age_category": "seniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3742\/cello_ursprung.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3742\/",
+        "description": "Das Bilderbuch \"Der kleine Troll\", von Dorle Schausbreitner, hat mich inspiriert, es als H\u00f6rspiel umzuschreiben und auf Band aufzunehmen. Dazu komponierte ich mit dem Cello passende St\u00fccke.",
+        "type": "matu",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3742\/s4b_tr_tsch_michaela.pdf",
+                "type": null,
+                "title": "Maturaarbeit"
+            }
+        ],
+        "technologies": [
+
+        ],
+        "members": [
+            {
+                "name": "Michaela Tr\u00fctsch",
+                "role": "leader",
+                "residence": {
+                    "npa": "8840",
+                    "town": "Einsiedeln",
+                    "canton": "SZ",
+                    "lat": 47.1334,
+                    "lng": 8.7434
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3572",
+        "year": 2016,
+        "title": "Der Supporter",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3572\/2.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3572\/",
+        "description": "Dies ist eine kleine 2D-Animation eines ein Mann-Teams.\nDabei handelt sich um einen Computertechniker der per Telefone versucht einem Unf\u00e4higen Kunden zu helfen.\nViel Spass beim ansehen!",
+        "type": "classroom",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3572\/der_supporter.mp4",
+                "type": "video",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3572\/dokumentation.pdf",
+                "type": null,
+                "title": "Wie auch die Animation wurde die Dokumentation, auch eine Woche sp\u00e4ter Fertig und wartet seit dem, dass sie jemand liest."
+            }
+        ],
+        "technologies": [
+            "photoshop",
+            "adobe-flash",
+            "imovie",
+            "adobe-premiere",
+            "audacity",
+            "adobe-audition"
+        ],
+        "members": [
+            {
+                "name": "Kenan Tabinas",
+                "role": "leader",
+                "residence": {
+                    "npa": "3421",
+                    "town": "Lyssach",
+                    "canton": "BE",
+                    "lat": 47.0543,
+                    "lng": 7.583
+                }
+            },
+            {
+                "name": "Tabea Lanz",
+                "role": "coach",
+                "residence": {
+                    "npa": "3400",
+                    "town": "Burgdorf",
+                    "canton": "BE",
+                    "lat": 47.0576,
+                    "lng": 7.6178
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3666",
+        "year": 2016,
+        "title": "Der Verwandler",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3666\/der_verwandler_0.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3666\/",
+        "description": "Jemand verwandelt sich in Leute und Objekten und macht Bl\u00f6dsinn.",
+        "type": "classroom",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3666\/video_der_verwandler.wmv",
+                "type": "video",
+                "title": "Der Verwandler hatte einen fast fantastischen Tag."
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3666\/beim_filmen_1.jpg",
+                "type": null,
+                "title": null
+            }
+        ],
+        "technologies": [
+
+        ],
+        "members": [
+            {
+                "name": "Alexander Jackson",
+                "role": "leader",
+                "residence": {
+                    "npa": "8041",
+                    "town": "Z\u00fcrich",
+                    "canton": "ZH",
+                    "lat": 47.3361,
+                    "lng": 8.5156
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3941",
+        "year": 2016,
+        "title": "Die Karottenklauer",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3941\/johannes_und_nico.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3941\/",
+        "description": "Ein Film, der von \"Crepern\" (=karottenklauer) handelt, die die heilige Karotte klauen m\u00f6chten weil ihnen die heilige Karotte magische Kr\u00e4fte verleiht ...",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3941\/die_karottenklauer.mov",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "finalcut",
+            "quicktime",
+            "lego"
+        ],
+        "members": [
+            {
+                "name": "Johannes Voigt",
+                "role": "leader",
+                "residence": {
+                    "npa": "4125",
+                    "town": "Riehen",
+                    "canton": "BS",
+                    "lat": 47.5805,
+                    "lng": 7.653
+                }
+            },
+            {
+                "name": "Nico Beauregard",
+                "role": null,
+                "residence": {
+                    "npa": "4125",
+                    "town": "Riehen",
+                    "canton": "BS",
+                    "lat": 47.5805,
+                    "lng": 7.653
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3890",
+        "year": 2016,
+        "title": "Die neue Evolution",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3890\/hni_0021.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3890\/",
+        "description": "Wir machten einen Lego Film in dem es darum geht das die erde von Dinosaurier heimgesucht wird. Wir dreten den Film mit einen Nintendo3DS und einer Cannon Kamera und schnitten es dan mit dem Windows Movie Maker zusamen.",
+        "type": "classroom",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3890\/die_neue_evolution_abgabe.mp4",
+                "type": "video",
+                "title": "Hoffe es gef\u00e4llt euch?!"
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3890\/bug_n_play_bild_1.pdf",
+                "type": null,
+                "title": null
+            }
+        ],
+        "technologies": [
+            "windows-movie-maker",
+            "mspowerpoint"
+        ],
+        "members": [
+            {
+                "name": "Jan Wullschleger",
+                "role": "leader",
+                "residence": {
+                    "npa": "4802",
+                    "town": "Strengelbach",
+                    "canton": "AG",
+                    "lat": 47.2831,
+                    "lng": 7.9236
+                }
+            },
+            {
+                "name": "Alec Weber",
+                "role": null,
+                "residence": {
+                    "npa": "4802",
+                    "town": "Strengelbach",
+                    "canton": "AG",
+                    "lat": 47.2831,
+                    "lng": 7.9236
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3728",
+        "year": 2016,
+        "title": "Die unbezwingbare Freiheit",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3728\/p1500503_3.190x140.gif",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3728\/",
+        "description": "Geschichte eines Pferdes namens Freedom, gespielt mit Modellfiguren.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3728\/projekt_film_bugnplay.wmv",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "windows-movie-maker"
+        ],
+        "members": [
+            {
+                "name": "Kim Herrmann",
+                "role": "leader",
+                "residence": {
+                    "npa": "3263",
+                    "town": "B\u00fcetigen",
+                    "canton": "BE",
+                    "lat": 47.1061,
+                    "lng": 7.3342
+                }
+            },
+            {
+                "name": "Rahel Neukom",
+                "role": null,
+                "residence": {
+                    "npa": "3263",
+                    "town": "B\u00fcetigen",
+                    "canton": "BE",
+                    "lat": 47.1061,
+                    "lng": 7.3342
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3918",
+        "year": 2016,
+        "title": "Film en papercraft",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3918\/paper1.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3918\/",
+        "description": "Film d'animation en papercraft : l'union fait la force.\nCertaines fois, il est utile d'avoir des personnes pour nous aider.",
+        "type": "classroom",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3918\/unionfaitforce.mp4",
+                "type": "video",
+                "title": "Film en papercraft  Titre:L'Union fait la force  Bon visionnage"
+            }
+        ],
+        "technologies": [
+            "imovie"
+        ],
+        "members": [
+            {
+                "name": "Guilherme Belo",
+                "role": "leader",
+                "residence": {
+                    "npa": "1782",
+                    "town": "Belfaux",
+                    "canton": "FR",
+                    "lat": 46.8407,
+                    "lng": 7.1146
+                }
+            },
+            {
+                "name": "Mathis Fr\u00e9sard",
+                "role": null,
+                "residence": {
+                    "npa": "1782",
+                    "town": "Belfaux",
+                    "canton": "FR",
+                    "lat": 46.8407,
+                    "lng": 7.1146
+                }
+            },
+            {
+                "name": "Samuel Robatel",
+                "role": "coach",
+                "residence": {
+                    "npa": "1782",
+                    "town": "Belfaux",
+                    "canton": "FR",
+                    "lat": 46.8407,
+                    "lng": 7.1146
+                }
+            },
+            {
+                "name": "St\u00e9phane Fontana",
+                "role": "coach",
+                "residence": {
+                    "npa": "1482",
+                    "town": "Cugy",
+                    "canton": "FR",
+                    "lat": 46.8094,
+                    "lng": 6.8945
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3931",
+        "year": 2016,
+        "title": "Five steps for an apple-peace",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3931\/image1_2.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3931\/",
+        "description": "Animationsfilm \u00fcber die f\u00fcnf Schritte, die ein Peacemaker in einer Konfliktsituation auf dem Pausenplatz durchmacht. Durch die Verwendung von Minecraft-Elementen will ich bei Sch\u00fclern das Interesse am Schulprojekt \"Peacemaker\" wecken.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3931\/5steps.mp4",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+
+        ],
+        "members": [
+            {
+                "name": "Jonas Huck",
+                "role": "leader",
+                "residence": {
+                    "npa": "8274",
+                    "town": "T\u00e4gerwilen",
+                    "canton": "TG",
+                    "lat": 47.6645,
+                    "lng": 9.1262
+                }
+            },
+            {
+                "name": "Christine Bullinger",
+                "role": "coach",
+                "residence": {
+                    "npa": "8044",
+                    "town": "Z\u00fcrich",
+                    "canton": "ZH",
+                    "lat": 47.3804,
+                    "lng": 8.5728
+                }
+            },
+            {
+                "name": "Dietrich Sonja",
+                "role": "coach",
+                "residence": {
+                    "npa": "8274",
+                    "town": "T\u00e4gerwilen",
+                    "canton": "TG",
+                    "lat": 47.6645,
+                    "lng": 9.1262
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3781",
+        "year": 2016,
+        "title": "GUTER TAG - SCHLECHTER TAG",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3781\/dsc03068.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3781\/",
+        "description": "Dies ist ein Trickfilm \u00fcber einen Mann, der einen guten und einen schlechten Tag hat. Seine Frau hat teilweise im Trickfilm auch Pannen, die zum schlechten Tag geh\u00f6ren. Wir wollen einen guten und einen schlechten Tag vergleichen, dies machen wir im Schlafzimmer, im Bad, in der K\u00fcche und am Bahnhof.",
+        "type": "classroom",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3781\/gesamtfilm30_3_16.mp4",
+                "type": "video",
+                "title": "Uns ist in der letzten Sekunde ein Fehler aufgefallen. Beim guten Tag heisst die Musik \"Blue Ska\" nicht \"Blue Ski\""
+            }
+        ],
+        "technologies": [
+            "imovie",
+            "quicktime",
+            "stop-motion"
+        ],
+        "members": [
+            {
+                "name": "Noah Glarner",
+                "role": "leader",
+                "residence": {
+                    "npa": "8630",
+                    "town": "R\u00fcti",
+                    "canton": "ZH",
+                    "lat": 47.2581,
+                    "lng": 8.8607
+                }
+            },
+            {
+                "name": "Erwin Jensen",
+                "role": null,
+                "residence": {
+                    "npa": "8712",
+                    "town": "St\u00e4fa",
+                    "canton": "ZH",
+                    "lat": 47.2407,
+                    "lng": 8.7253
+                }
+            },
+            {
+                "name": "Philipp Fischer",
+                "role": null,
+                "residence": {
+                    "npa": "8712",
+                    "town": "St\u00e4fa",
+                    "canton": "ZH",
+                    "lat": 47.2407,
+                    "lng": 8.7253
+                }
+            },
+            {
+                "name": "Kai Berndt",
+                "role": null,
+                "residence": {
+                    "npa": "8630",
+                    "town": "R\u00fcti",
+                    "canton": "ZH",
+                    "lat": 47.2581,
+                    "lng": 8.8607
+                }
+            },
+            {
+                "name": "C\u00e9cile Roth",
+                "role": "coach",
+                "residence": {
+                    "npa": "8712",
+                    "town": "St\u00e4fa",
+                    "canton": "ZH",
+                    "lat": 47.2407,
+                    "lng": 8.7253
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3993",
+        "year": 2016,
+        "title": "Hard Hit Gamesound(Cash correct type)",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3993\/camera2.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3993\/",
+        "description": "Dies ist ein Musikvideo, das ich selber komponiert habe.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3993\/cash_correct_type.mp4",
+                "type": "video",
+                "title": "Dauer Produzierung(Musik):  ca. 2 h    Dauer Produzierung(Video):  > 3 h."
+            }
+        ],
+        "technologies": [
+            "imovie",
+            "quicktime",
+            "garageband"
+        ],
+        "members": [
+            {
+                "name": "Timo Wiedmer",
+                "role": "leader",
+                "residence": {
+                    "npa": "8320",
+                    "town": "Fehraltorf",
+                    "canton": "ZH",
+                    "lat": 47.3875,
+                    "lng": 8.7505
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:4105",
+        "year": 2016,
+        "title": "Herr Piperlis Reise um die Welt",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4105\/titel.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/4105\/",
+        "description": "Herr Piperli, unsere Comicfigur, erkundet die Welt. Was wird er alles entdecken, erfahren, erleben? Da darf man wirklich gespannt sein!",
+        "type": "classroom",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4105\/herr_piperlis_reise.wmv",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "photoshop",
+            "windows-movie-maker"
+        ],
+        "members": [
+            {
+                "name": "Marius K\u00f6nig",
+                "role": "leader",
+                "residence": {
+                    "npa": "8442",
+                    "town": "Hettlingen",
+                    "canton": "ZH",
+                    "lat": 47.5481,
+                    "lng": 8.7107
+                }
+            },
+            {
+                "name": "Ivo Sch\u00fcder",
+                "role": null,
+                "residence": {
+                    "npa": "8442",
+                    "town": "Hettlingen",
+                    "canton": "ZH",
+                    "lat": 47.5481,
+                    "lng": 8.7107
+                }
+            },
+            {
+                "name": "Leo Eisenring",
+                "role": "coach",
+                "residence": {
+                    "npa": "8442",
+                    "town": "Hettlingen",
+                    "canton": "ZH",
+                    "lat": 47.5481,
+                    "lng": 8.7107
+                }
+            },
+            {
+                "name": "Caiden Addy",
+                "role": null,
+                "residence": {
+                    "npa": "8442",
+                    "town": "Hettlingen",
+                    "canton": "ZH",
+                    "lat": 47.5481,
+                    "lng": 8.7107
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3785",
+        "year": 2016,
+        "title": "Im Haus",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3785\/6.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3785\/",
+        "description": "Ich habe mit Powerpoint ein Spiel programmiert. Man befindet sich in einem Haus kann darin herumlaufen und mit gewissen dingen iterreagieren.",
+        "type": "independent",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3785\/imhaus.zip",
+                "type": "file",
+                "title": "Das ganze Spiel besteht aus vier Dateien das das so ist liegt einfach an der \u00fcbersichtlichkeit"
+            }
+        ],
+        "technologies": [
+            "mspowerpoint"
+        ],
+        "members": [
+            {
+                "name": "Alexander Greuter",
+                "role": "leader",
+                "residence": {
+                    "npa": "5034",
+                    "town": "Suhr",
+                    "canton": "AG",
+                    "lat": 47.3747,
+                    "lng": 8.0858
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:4068",
+        "year": 2016,
+        "title": "Jeu video",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4068\/concours_00.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/4068\/",
+        "description": "Nous voulons creer un jeu vid\u00e9o pour l'ordinateur.",
+        "type": "classroom",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4068\/tjutos_adventure.zip",
+                "type": null,
+                "title": null
+            },
+            {
+                "url": "http:\/\/thibautjungo.blogspot.ch\/",
+                "type": "website",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4068\/journal_de_bord.pdf",
+                "type": null,
+                "title": null
+            }
+        ],
+        "technologies": [
+            "game-maker"
+        ],
+        "members": [
+            {
+                "name": "Thibaut Jungo",
+                "role": "leader",
+                "residence": {
+                    "npa": "1721",
+                    "town": "Courtion",
+                    "canton": "FR",
+                    "lat": 46.8604,
+                    "lng": 7.0689
+                }
+            },
+            {
+                "name": "Toma Seydoux",
+                "role": null,
+                "residence": {
+                    "npa": "1700",
+                    "town": "Fribourg",
+                    "canton": "FR",
+                    "lat": 46.8043,
+                    "lng": 7.1667
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3745",
+        "year": 2016,
+        "title": "Kaugummifarbw\u00e4hlmaschine",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3745\/img_5222.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3745\/",
+        "description": "Runde Kaugummis k\u00f6nnen nach Farben ausgew\u00e4hlt werden",
+        "type": "independent",
+        "category": "installation-robotic",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3745\/bugnplay2016_compressed.mp4",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "lego"
+        ],
+        "members": [
+            {
+                "name": "Michael Stambach",
+                "role": "leader",
+                "residence": {
+                    "npa": "9425",
+                    "town": "Thal",
+                    "canton": "SG",
+                    "lat": 47.4789,
+                    "lng": 9.5647
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:4089",
+        "year": 2016,
+        "title": "Kleine Abenteurer auf Kristallsuche",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4089\/bgnpl.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/4089\/",
+        "description": "Die kleinen Tierfreunde machen sich auf die Suche nach Kristallen. Mit der Hilfe eines Schmetterlings m\u00fcssen sie ein paar R\u00e4tsel l\u00f6sen.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4089\/die_kleinen_abenteurer_auf_kristallsuche_klein.mp4",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "imovie"
+        ],
+        "members": [
+            {
+                "name": "Leonie Wiedmer",
+                "role": "leader",
+                "residence": {
+                    "npa": "8320",
+                    "town": "Fehraltorf",
+                    "canton": "ZH",
+                    "lat": 47.3875,
+                    "lng": 8.7505
+                }
+            },
+            {
+                "name": "Selina Tanner",
+                "role": null,
+                "residence": {
+                    "npa": "8320",
+                    "town": "Fehraltorf",
+                    "canton": "ZH",
+                    "lat": 47.3875,
+                    "lng": 8.7505
+                }
+            },
+            {
+                "name": "Werner Wiedmer",
+                "role": "coach",
+                "residence": {
+                    "npa": "8320",
+                    "town": "Fehraltorf",
+                    "canton": "ZH",
+                    "lat": 47.3875,
+                    "lng": 8.7505
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3581",
+        "year": 2016,
+        "title": "Komische Sachen",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3581\/l_ffel_isst_suppe-1.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3581\/",
+        "description": "Messer und Gabel haben Hunger und kommen ins Bild. Eine Peperoni liegt dort. Messer und Gabel schneiden und fressen die Peperoni. Als die Peperoni fertig war, ass das Messer weil es noch so Hunger hatte die Gabel auch noch auf. Zwei Erdn\u00fcsse kommen ins Bild und eine grosses Auffressen beginnt...",
+        "type": "classroom",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3581\/video_sirikomischesachenweb.wmv",
+                "type": "video",
+                "title": "\"Komische Sachen\" ein Video von Siri Jaggy"
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3581\/bei_den_tonaufnahmen.jpg",
+                "type": null,
+                "title": null
+            }
+        ],
+        "technologies": [
+
+        ],
+        "members": [
+            {
+                "name": "Siri Jaggy",
+                "role": "leader",
+                "residence": {
+                    "npa": "8045",
+                    "town": "Z\u00fcrich",
+                    "canton": "ZH",
+                    "lat": 47.3516,
+                    "lng": 8.5057
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3584",
+        "year": 2016,
+        "title": "L'Am\u00e9ricain et l'Indien",
+        "age_category": "seniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3584\/capture.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3584\/",
+        "description": "Cette histoire raconte l'odyss\u00e9e de deux amis, de leur d\u00e9but jusqu'\u00e0 leur fin. Une histoire faisant r\u00e9fl\u00e9chir sur les cons\u00e9quences des guerres.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3584\/l_am_ricain_et_l_indien.mp4",
+                "type": "video",
+                "title": "Court-m\u00e9trage L'Am\u00e9ricain et l'Indien"
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3584\/sc_nario_l_am_ricain_et_l_indien.pdf",
+                "type": null,
+                "title": "Derni\u00e8re version de l'histoire qui m'a servi \u00e0 la r\u00e9alisation."
+            }
+        ],
+        "technologies": [
+
+        ],
+        "members": [
+            {
+                "name": "Julien Beaud",
+                "role": "leader",
+                "residence": {
+                    "npa": "2502",
+                    "town": "Bienne",
+                    "canton": "BE",
+                    "lat": 47.143,
+                    "lng": 7.2468
+                }
+            },
+            {
+                "name": "Emile Vianney-Liaud",
+                "role": null,
+                "residence": {
+                    "npa": "2534",
+                    "town": "Orvin",
+                    "canton": "BE",
+                    "lat": 47.1522,
+                    "lng": 7.155
+                }
+            },
+            {
+                "name": "Laetitia Peng",
+                "role": null,
+                "residence": {
+                    "npa": "2538",
+                    "town": "Romont",
+                    "canton": "BE",
+                    "lat": 47.1921,
+                    "lng": 7.3273
+                }
+            },
+            {
+                "name": "Fabrice Beaud",
+                "role": null,
+                "residence": {
+                    "npa": "2502",
+                    "town": "Bienne",
+                    "canton": "BE",
+                    "lat": 47.143,
+                    "lng": 7.2468
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3902",
+        "year": 2016,
+        "title": "l-e-b-r",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3902\/l-e-b-r_on_scratch.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3902\/",
+        "description": "Sie heist so weil f\u00fcr mir ist ein cooles name. Ich tanze gern deshalb die video ist vom tanzen. Ich habt selber alles gemalt weil ich habt auch gern malen.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3902\/l-e-b-r.mov",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "scratch"
+        ],
+        "members": [
+            {
+                "name": "Karina Zamboni",
+                "role": "leader",
+                "residence": {
+                    "npa": "3063",
+                    "town": "Ittigen",
+                    "canton": "BE",
+                    "lat": 46.9805,
+                    "lng": 7.4786
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3659",
+        "year": 2016,
+        "title": "La Perte de Pouvoirs",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3659\/character_body.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3659\/",
+        "description": "Petit court m\u00e9trage en dessin anim\u00e9 sur l'histoire d'un super h\u00e9ros qui perd ses pouvoirs d'un coup et r\u00e9ussi \u00e0 les regagner en sauvant des gens avec les aides restantes",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3659\/la_perte_de_pouvoirs_court_m_trage_par_marcus_hamelink.mp4",
+                "type": "video",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3659\/pr_sentationdelapertedepouvoirs.mp4",
+                "type": null,
+                "title": "La pr\u00e9sentation de mon projet racontant comment le personnage principal du court-m\u00e9trage a re\u00e7u ses pouvoirs"
+            }
+        ],
+        "technologies": [
+            "after-effects"
+        ],
+        "members": [
+            {
+                "name": "Marcus Hamelink",
+                "role": "leader",
+                "residence": {
+                    "npa": "1251",
+                    "town": "Gy",
+                    "canton": "GE",
+                    "lat": 46.2536,
+                    "lng": 6.2859
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:4099",
+        "year": 2016,
+        "title": "Labyrinth-Spiel und -Editor",
+        "age_category": "seniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4099\/1.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/4099\/",
+        "description": "Der Spieler versucht in selbst erstellten oder generierten Labyrinthen einen Weg zum Ziel zu finden. Um Labyrinthe erstellen zu k\u00f6nnen, steht ein Editor zur Verf\u00fcgung. Die mit dem Editor erstellten Labyrinthe k\u00f6nnen optional \u00fcber das Internet in die Spielanwendung oder an Freunde gesendet werden.",
+        "type": "matu",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/labyrinthspiel.webspace.rocks",
+                "type": "website",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4099\/arbeitsjournal_andreas.pdf",
+                "type": null,
+                "title": "Arbeitsjournal Andreas"
+            }
+        ],
+        "technologies": [
+            "gimp",
+            "cpp",
+            "qt",
+            "java",
+            "raspberry-pi"
+        ],
+        "members": [
+            {
+                "name": "Andreas Gaberth\u00fcel",
+                "role": "leader",
+                "residence": {
+                    "npa": "8460",
+                    "town": "Marthalen",
+                    "canton": "ZH",
+                    "lat": 47.6205,
+                    "lng": 8.6408
+                }
+            },
+            {
+                "name": "Pascal Vecsei",
+                "role": null,
+                "residence": {
+                    "npa": "8408",
+                    "town": "Winterthur",
+                    "canton": "ZH",
+                    "lat": 47.5077,
+                    "lng": 8.6833
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3838",
+        "year": 2016,
+        "title": "Lego Fight",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3838\/image-1.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3838\/",
+        "description": "Ich mache einen Kurzfilm \u00fcber Legos. In dieser Geschichte gehts um verschiedene charakteren wie zB. Spiderman, Steve (Minecraft), Hulk usw.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3838\/lego.mov",
+                "type": "video",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3838\/image-3.jpg",
+                "type": null,
+                "title": null
+            }
+        ],
+        "technologies": [
+            "lego",
+            "stop-motion"
+        ],
+        "members": [
+            {
+                "name": "Enveras Selim",
+                "role": "leader",
+                "residence": {
+                    "npa": "5430",
+                    "town": "Wettingen",
+                    "canton": "AG",
+                    "lat": 47.4629,
+                    "lng": 8.3321
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:4044",
+        "year": 2016,
+        "title": "Lego Strassenverkehr",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4044\/p3212019.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/4044\/",
+        "description": "Aus rund 140 Einzelfotos mit einer Nikon Coolpix S3300 Digitalkamera wurde auf dem Computer eine Animation im Lego Strassenverkehr erstellt.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4044\/mymovie_7.mp4",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "windows-movie-maker",
+            "lego"
+        ],
+        "members": [
+            {
+                "name": "Tobias Kissling",
+                "role": "leader",
+                "residence": {
+                    "npa": "4654",
+                    "town": "Lostorf",
+                    "canton": "SO",
+                    "lat": 47.3895,
+                    "lng": 7.935
+                }
+            },
+            {
+                "name": "Isabel Kissling",
+                "role": null,
+                "residence": {
+                    "npa": "4654",
+                    "town": "Lostorf",
+                    "canton": "SO",
+                    "lat": 47.3895,
+                    "lng": 7.935
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3544",
+        "year": 2016,
+        "title": "Les voleurs de LEGO city",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3544\/img_1057.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3544\/",
+        "description": "Dans une ville, des voleurs arrivent en groupe. Ils am\u00e8nent  des  armes pour cambrioler une banque. A la fin ils ont tous \u00e9t\u00e9 arr\u00eat\u00e9s par la police de la ville.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3544\/les_voleurs_de_lego_city_2016_2.mp4",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "imovie",
+            "lego"
+        ],
+        "members": [
+            {
+                "name": "Dorian Cotting",
+                "role": "leader",
+                "residence": {
+                    "npa": "1896",
+                    "town": "Vouvry",
+                    "canton": "VS",
+                    "lat": 46.338,
+                    "lng": 6.8311
+                }
+            },
+            {
+                "name": "Matteo Harlay",
+                "role": null,
+                "residence": {
+                    "npa": "1896",
+                    "town": "vouvry",
+                    "canton": "VS",
+                    "lat": 46.338,
+                    "lng": 6.8311
+                }
+            },
+            {
+                "name": "Kelian Esteban",
+                "role": null,
+                "residence": {
+                    "npa": "1896",
+                    "town": "Miex",
+                    "canton": "VS",
+                    "lat": 46.338,
+                    "lng": 6.8311
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3623",
+        "year": 2016,
+        "title": "Mars one",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3623\/mars_1.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3623\/",
+        "description": "Zwei Astronauten m\u00fcssen f\u00fcr die NASA auf dem Mars landen. Als sie sich aber ihrem Ziel n\u00e4hern, unterbricht sie ein Zwischenfall. Durch diesen Zwischenfall m\u00fcssen sie auf einem anderen, fremdem Planeten Notlanden. Aber was dieser Zwischenfall noch verursachen wird, ahnen sie noch nicht und steigen  m",
+        "type": "classroom",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3623\/videomars_one_web.wmv",
+                "type": "video",
+                "title": "\"Mars One\" von : Max, Eddy und Ian"
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3623\/am_filmen.jpg",
+                "type": null,
+                "title": null
+            }
+        ],
+        "technologies": [
+            "garageband"
+        ],
+        "members": [
+            {
+                "name": "Eddy K\u00fcenzi",
+                "role": "leader",
+                "residence": {
+                    "npa": "8046",
+                    "town": "Z\u00fcrich",
+                    "canton": "ZH",
+                    "lat": 47.4222,
+                    "lng": 8.5083
+                }
+            },
+            {
+                "name": "Maximilian Beck",
+                "role": null,
+                "residence": {
+                    "npa": "8003",
+                    "town": "Z\u00fcrich",
+                    "canton": "ZH",
+                    "lat": 47.3726,
+                    "lng": 8.5161
+                }
+            },
+            {
+                "name": "Ian Fitze",
+                "role": null,
+                "residence": {
+                    "npa": "8044",
+                    "town": "Z\u00fcrich",
+                    "canton": "ZH",
+                    "lat": 47.3804,
+                    "lng": 8.5728
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:4117",
+        "year": 2016,
+        "title": "Minispiele",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4117\/bild3.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/4117\/",
+        "description": "Computerspiel, das aus Minispielen besteht.",
+        "type": "classroom",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/scratch.mit.edu\/projects\/103228501\/",
+                "type": "website",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "scratch"
+        ],
+        "members": [
+            {
+                "name": "Arian Furrer",
+                "role": "leader",
+                "residence": {
+                    "npa": "8408",
+                    "town": "Winterthur",
+                    "canton": "ZH",
+                    "lat": 47.5077,
+                    "lng": 8.6833
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3533",
+        "year": 2016,
+        "title": "Mystery Clash",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3533\/silvan1.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3533\/",
+        "description": "Es ist ein Jump`an`run Game.",
+        "type": "independent",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3533\/mystery_clash.zip",
+                "type": null,
+                "title": null
+            },
+            {
+                "url": "http:\/\/scratch.mit.edu\/projects\/103235616\/",
+                "type": "website",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "scratch",
+            "garageband"
+        ],
+        "members": [
+            {
+                "name": "Silvan Zumbrunn",
+                "role": "leader",
+                "residence": {
+                    "npa": "3715",
+                    "town": "Adelboden",
+                    "canton": "BE",
+                    "lat": 46.47,
+                    "lng": 7.5582
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:4113",
+        "year": 2016,
+        "title": "N\u00e4chster Halt",
+        "age_category": "seniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4113\/original.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/4113\/",
+        "description": "Ein Kurzfilm, der ein Nahtoterlebnis veranschaulicht. Die Hauptperson Eric befindet sich an einer Bushaltestelle. Er f\u00fchrt ein Gespr\u00e4ch mit dem Tod.\n\nF\u00fcr bessere Qualit\u00e4t:\nhttps:\/\/youtu.be\/cdxb-QLjh_o",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4113\/n_chster_halt.pdf",
+                "type": null,
+                "title": "Das fertige Filmskript"
+            }
+        ],
+        "technologies": [
+            "photoshop",
+            "cinema4d",
+            "adobe-premiere",
+            "after-effects",
+            "logic-pro"
+        ],
+        "members": [
+            {
+                "name": "Andri de Bros",
+                "role": "leader",
+                "residence": {
+                    "npa": "9476",
+                    "town": "Weite",
+                    "canton": "SG",
+                    "lat": 47.0967,
+                    "lng": 9.4998
+                }
+            },
+            {
+                "name": "Valery Schwabe",
+                "role": null,
+                "residence": {
+                    "npa": "9642",
+                    "town": "Ebnat-Kappel",
+                    "canton": "SG",
+                    "lat": 47.2357,
+                    "lng": 9.1318
+                }
+            },
+            {
+                "name": "Marius Schwabe",
+                "role": null,
+                "residence": {
+                    "npa": "9642",
+                    "town": "Ebnat-Kappel",
+                    "canton": "SG",
+                    "lat": 47.2357,
+                    "lng": 9.1318
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3552",
+        "year": 2016,
+        "title": "No money but time",
+        "age_category": "seniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3552\/songaufnahmen.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3552\/",
+        "description": "Musikvideo(stop motion) zu meinem selbst komponierten Lied \"no money but time\"",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3552\/no_money_but_time_videoclip1.mov",
+                "type": "video",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3552\/nmbt_songtext.pdf",
+                "type": null,
+                "title": null
+            }
+        ],
+        "technologies": [
+            "photoshop",
+            "imovie"
+        ],
+        "members": [
+            {
+                "name": "Balz Schlegel",
+                "role": "leader",
+                "residence": {
+                    "npa": "8903",
+                    "town": "Birmensdorf",
+                    "canton": "ZH",
+                    "lat": 47.352,
+                    "lng": 8.4396
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3642",
+        "year": 2016,
+        "title": "OH MY GOD !",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3642\/olive_028.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3642\/",
+        "description": "une Journ\u00e9e au Paradis avec le Tout-Puissant ;)\nComment se passe une journ\u00e9e \" normale \" la haut ?\nLes m\u00eame probl\u00e8mes que sur Terre ?\nComment se forme un tsunami ?\nTout cela, c'est les Dieux qui le veulent",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3642\/bugnpaly_avec_musique.wmv",
+                "type": "video",
+                "title": "Voici mon projet vid\u00e9o.  Je remercie Anja Gasser pour le soutien informatique de derni\u00e8re minute."
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3642\/capture_few.png",
+                "type": null,
+                "title": "lors du montage"
+            }
+        ],
+        "technologies": [
+            "magix-video-deluxe"
+        ],
+        "members": [
+            {
+                "name": "Aurore GALY",
+                "role": "leader",
+                "residence": {
+                    "npa": "1926",
+                    "town": "Fully",
+                    "canton": "VS",
+                    "lat": 46.1551,
+                    "lng": 7.1172
+                }
+            },
+            {
+                "name": "Yves GALY",
+                "role": "coach",
+                "residence": {
+                    "npa": "1926",
+                    "town": "fully",
+                    "canton": "VS",
+                    "lat": 46.1551,
+                    "lng": 7.1172
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3619",
+        "year": 2016,
+        "title": "Partymomente",
+        "age_category": "seniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3619\/thumbnail.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3619\/",
+        "description": "Dieses Video zeigt einige Partymomente, die eingefleischten Partyg\u00e4ngern bekannt vorkommen k\u00f6nnten, und macht sich zus\u00e4tzlich \u00fcber die verschiedenen Typen von Menschen, die auf einer Party anzutreffen sind, lustig.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3619\/partymomente.wmv",
+                "type": "video",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3619\/behind_the_scenes.wmv",
+                "type": null,
+                "title": "Dies ist ein kleiner Zusammenschnitt von Outtakes und Behind the Scenes - Material, was einen kleinen Blick hinter die Kulissen unseres Videodrehs gew\u00e4hren soll."
+            }
+        ],
+        "technologies": [
+            "sony-vegas"
+        ],
+        "members": [
+            {
+                "name": "Lena Pfeiffer",
+                "role": "leader",
+                "residence": {
+                    "npa": "4513",
+                    "town": "Langendorf",
+                    "canton": "SO",
+                    "lat": 47.2198,
+                    "lng": 7.5149
+                }
+            },
+            {
+                "name": "Karin Walker",
+                "role": null,
+                "residence": {
+                    "npa": "4513",
+                    "town": "Langendorf",
+                    "canton": "SO",
+                    "lat": 47.2198,
+                    "lng": 7.5149
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3523",
+        "year": 2016,
+        "title": "Peacefully Yours",
+        "age_category": "seniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3523\/title.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3523\/",
+        "description": "Deux couleurs, m\u00e9taphore des diff\u00e9rences humaines, se m\u00e9langent et se s\u00e9parent dans une bataille s\u00e9gr\u00e9gationniste jusqu'\u00e0 admettre que tous sont \u00e9gaux bien que diff\u00e9rents.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3523\/peacefullyyours.mov",
+                "type": "video",
+                "title": "Peacefully Yours - April Winkelmann"
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3523\/imag3029.jpg",
+                "type": null,
+                "title": "Installation pour les prises de vue"
+            }
+        ],
+        "technologies": [
+
+        ],
+        "members": [
+            {
+                "name": "April Winkelmann",
+                "role": "leader",
+                "residence": {
+                    "npa": "2856",
+                    "town": "Bo\u00e9court",
+                    "canton": "JU",
+                    "lat": 47.3582,
+                    "lng": 7.2163
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3821",
+        "year": 2016,
+        "title": "Penguin Control",
+        "age_category": "seniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3821\/mainmenu.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3821\/",
+        "description": "Penguin Control is a strategy game, that features a FPS-mode (FPS = First Person Shooter) in addition to a normal strategy-mode. I created Penguin Control as my final project in school (Maturaarbeit). The whole project was written and done in English.",
+        "type": "matu",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3821\/download-penguin-control.pdf",
+                "type": null,
+                "title": "Unfortunately this is only a workaround because the real file is to big for bugnplay.ch"
+            },
+            {
+                "url": "http:\/\/www.dropbox.com\/s\/rig6ckdw4m084w7\/Penguin-Control_SETUP.exe?dl=0",
+                "type": "website",
+                "title": "Unfortunately this is only a workaround because the real file is to big for bugnplay.ch"
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3821\/ma_reto_fl_tsch.pdf",
+                "type": null,
+                "title": null
+            }
+        ],
+        "technologies": [
+            "gimp",
+            "blender",
+            "unity"
+        ],
+        "members": [
+            {
+                "name": "Reto Fl\u00fctsch",
+                "role": "leader",
+                "residence": {
+                    "npa": "7212",
+                    "town": "Seewis-Schmitten",
+                    "canton": "GR",
+                    "lat": 47.018,
+                    "lng": 9.6368
+                }
+            },
+            {
+                "name": "Mario Feuerstein",
+                "role": "coach",
+                "residence": {
+                    "npa": "7524",
+                    "town": "Zuoz",
+                    "canton": "GR",
+                    "lat": 46.5984,
+                    "lng": 9.9344
+                }
+            },
+            {
+                "name": "Flurin Clal\u00fcna",
+                "role": null,
+                "residence": {
+                    "npa": "7554",
+                    "town": "Sent",
+                    "canton": "GR",
+                    "lat": 46.8203,
+                    "lng": 10.3603
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3559",
+        "year": 2016,
+        "title": "Quello che i pastori sanno       e tanta gente ignora",
+        "age_category": "seniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3559\/1-1.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3559\/",
+        "description": "Un docucorto che vuole contestualizzare la pastorizia nelle valli ticinesi, pi\u00f9 precisamente la valle verzasca. Abbiamo seguito per due giorni e una notte la vita delle capre e delle pecore.\nQuali sono i problemi dell'integrazione del lupo? ...",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3559\/trailer_no_music.mov",
+                "type": "video",
+                "title": "Un piccolo trailer del documentario"
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3559\/59.jpg",
+                "type": null,
+                "title": "Gabirele Giottonini"
+            }
+        ],
+        "technologies": [
+            "finalcut"
+        ],
+        "members": [
+            {
+                "name": "Gelshorn Reto",
+                "role": "leader",
+                "residence": {
+                    "npa": "6653",
+                    "town": "Verscio",
+                    "canton": "TI",
+                    "lat": 46.1964,
+                    "lng": 8.7246
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3954",
+        "year": 2016,
+        "title": "Retrospektive",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3954\/bugnplay_16_smiley.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3954\/",
+        "description": "W\u00e4hrend 9 Jahren haben wir 13 Projekte eingereicht. Zum 10j\u00e4hrigen Jubil\u00e4um wollen wir einen Film aus allen 13 Projekten zusammenstellen und so die Vergangenheit nochmals Revue passieren lassen.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3954\/bugnplay_16_retrospective_final_version-1.mp4",
+                "type": "video",
+                "title": "Retrospective: Moving Ball auf der Suche nach seiner Bestimmung"
+            }
+        ],
+        "technologies": [
+            "pinnacle-studio"
+        ],
+        "members": [
+            {
+                "name": "Jasmin Kaufmann",
+                "role": "leader",
+                "residence": {
+                    "npa": "5420",
+                    "town": "Ehrendingen",
+                    "canton": "AG",
+                    "lat": 47.4956,
+                    "lng": 8.3446
+                }
+            },
+            {
+                "name": "Robin Kaufmann",
+                "role": "coach",
+                "residence": {
+                    "npa": "5420",
+                    "town": "Ehrendingen",
+                    "canton": "AG",
+                    "lat": 47.4956,
+                    "lng": 8.3446
+                }
+            },
+            {
+                "name": "Timon Kaufmann",
+                "role": "coach",
+                "residence": {
+                    "npa": "5420",
+                    "town": "Ehrendingen",
+                    "canton": "AG",
+                    "lat": 47.4956,
+                    "lng": 8.3446
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3757",
+        "year": 2016,
+        "title": "robot netoyeur",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3757\/robot1.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3757\/",
+        "description": "Un petit robot qui nettoie le sol \u00e0 notre place.",
+        "type": "classroom",
+        "category": "installation-robotic",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3757\/le_robot_nettoyeur.mp4",
+                "type": "video",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3757\/capture_d_cran_2016-03-25_17_31_31.png",
+                "type": null,
+                "title": null
+            }
+        ],
+        "technologies": [
+            "imovie",
+            "lego",
+            "mindstorms"
+        ],
+        "members": [
+            {
+                "name": "Nathan Curty",
+                "role": "leader",
+                "residence": {
+                    "npa": "1720",
+                    "town": "Corminboeuf",
+                    "canton": "FR",
+                    "lat": 46.8059,
+                    "lng": 7.0769
+                }
+            },
+            {
+                "name": "Th\u00e9o Cipolla",
+                "role": null,
+                "residence": {
+                    "npa": "1720",
+                    "town": "Corminboeuf",
+                    "canton": "FR",
+                    "lat": 46.8059,
+                    "lng": 7.0769
+                }
+            },
+            {
+                "name": "St\u00e9phane Fontana",
+                "role": "coach",
+                "residence": {
+                    "npa": "1482",
+                    "town": "Cugy",
+                    "canton": "FR",
+                    "lat": 46.8094,
+                    "lng": 6.8945
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3824",
+        "year": 2016,
+        "title": "SaGeRe",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3824\/sagere_bild.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3824\/",
+        "description": "Die App, die Sch\u00fclerInnen motiviert, sehr gut in der Schule zu werden. (Wenn ihr sehr gut seid, werdet ihr fast schon reich :D )",
+        "type": "independent",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3824\/sagere.mp4",
+                "type": "video",
+                "title": "Demo-Video"
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3824\/sagere_apk.zip",
+                "type": "file",
+                "title": ".apk-Installationsdatei f\u00fcr Android"
+            }
+        ],
+        "technologies": [
+            "adobe-premiere"
+        ],
+        "members": [
+            {
+                "name": "Dan Sch\u00f6nenberger",
+                "role": "leader",
+                "residence": {
+                    "npa": "9524",
+                    "town": "Zuzwil",
+                    "canton": "SG",
+                    "lat": 47.4745,
+                    "lng": 9.1106
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3860",
+        "year": 2016,
+        "title": "Sandman vs. the Avengers",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3860\/dsc_4050.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3860\/",
+        "description": "Wir haben mit den Minifiguren von Lego Superheroes ein stopmotion Film gemacht. Die Idee eines Filmes ist uns auf dem Pausenplatz eingefallen. Wir haben die Geschichte erfunden und mit unseren Legos das Set gebaut. Wir haben mehr als 300 Fotos gemacht und sie f\u00fcr den Film zusammengef\u00fcgt.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3860\/sandmanvsavengers.wmv",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "windows-movie-maker"
+        ],
+        "members": [
+            {
+                "name": "Patrick Odermatt",
+                "role": "leader",
+                "residence": {
+                    "npa": "5430",
+                    "town": "Wettingen",
+                    "canton": "AG",
+                    "lat": 47.4629,
+                    "lng": 8.3321
+                }
+            },
+            {
+                "name": "Leonardo Boccanera",
+                "role": null,
+                "residence": {
+                    "npa": "5430",
+                    "town": "Wettingen",
+                    "canton": "AG",
+                    "lat": 47.4629,
+                    "lng": 8.3321
+                }
+            },
+            {
+                "name": "Elena Odermatt",
+                "role": "coach",
+                "residence": {
+                    "npa": "5430",
+                    "town": "Wettingen",
+                    "canton": "AG",
+                    "lat": 47.4629,
+                    "lng": 8.3321
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3914",
+        "year": 2016,
+        "title": "Schiff mit Ventilatorfunktion und Lampe",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3914\/schiff_2_rohbau.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3914\/",
+        "description": "Ein Schiff, das  zwei Ventilatoren hat, die als Motor (Antrieb auf Wasser) oder als K\u00fchlung dienen. Abends kann das Schiff als Nachttischlampe dienen. Der Strom wird aus einer Batterie bezogen.",
+        "type": "independent",
+        "category": "installation-robotic",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3914\/bugnplay_schiff_sd.mp4",
+                "type": "video",
+                "title": "Vom Plan bis zum Modell. Ein kleiner Einblick in unser Projekt."
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3914\/schiff_1_plan.jpg",
+                "type": null,
+                "title": "Anfangs haben wir einen Plan f\u00fcr unser Schiff gezeichnet mir der Kabelf\u00fchrung. Die Solarzellen mussten wir dann leider weglassen, da sie zu wenig Strom produzierten."
+            }
+        ],
+        "technologies": [
+
+        ],
+        "members": [
+            {
+                "name": "Timon Fiedler",
+                "role": "leader",
+                "residence": {
+                    "npa": "8048",
+                    "town": "Z\u00fcrich",
+                    "canton": "ZH",
+                    "lat": 47.3868,
+                    "lng": 8.4839
+                }
+            },
+            {
+                "name": "Thomas Lippuner",
+                "role": "coach",
+                "residence": {
+                    "npa": "8048",
+                    "town": "Z\u00fcrich",
+                    "canton": "ZH",
+                    "lat": 47.3868,
+                    "lng": 8.4839
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:4002",
+        "year": 2016,
+        "title": "Silver Fire",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4002\/g0531493_1.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/4002\/",
+        "description": "Eine Achterbahn f\u00fcrs Auge, Ohr, Herz und Verstand: \nDie Silver Fire zaubert per Mausklick aus viel Klebeband, Gartenschlauch, Musik und Hornhaut an den H\u00e4nden ein bisschen Blue-Fire-Stimmung ins Wohnzimmer.",
+        "type": "classroom",
+        "category": "installation-robotic",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4002\/silver_fire_-_klein.mov",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "garageband"
+        ],
+        "members": [
+            {
+                "name": "Nico Felix",
+                "role": "leader",
+                "residence": {
+                    "npa": "8700",
+                    "town": "K\u00fcsnacht",
+                    "canton": "ZH",
+                    "lat": 47.3196,
+                    "lng": 8.5899
+                }
+            },
+            {
+                "name": "Mateo Schmutz",
+                "role": null,
+                "residence": {
+                    "npa": "8700",
+                    "town": "K\u00fcsnacht",
+                    "canton": "ZH",
+                    "lat": 47.3196,
+                    "lng": 8.5899
+                }
+            },
+            {
+                "name": "Annie Bissonnette",
+                "role": "coach",
+                "residence": {
+                    "npa": "8803",
+                    "town": "R\u00fcschlikon",
+                    "canton": "ZH",
+                    "lat": 47.3059,
+                    "lng": 8.5556
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3974",
+        "year": 2016,
+        "title": "Sirup Maschine",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3974\/20160322_165352-800x450.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3974\/",
+        "description": "Wir bauen eine Lego Mindstorms Sirup Maschine. Man kann zwischen drei verschiedenen Geschmacksrichtungen ausw\u00e4hlen. Zwischen Himber, Orange und Pfirsich. Es kommt auch noch einen Strohhalm in das Glas. Wir machen dieses Projekt zu dritt.",
+        "type": "independent",
+        "category": "installation-robotic",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3974\/20160324_161857.mp4",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "lego",
+            "mindstorms"
+        ],
+        "members": [
+            {
+                "name": "Pascal Hollenstein",
+                "role": "leader",
+                "residence": {
+                    "npa": "9104",
+                    "town": "Waldstatt",
+                    "canton": "AR",
+                    "lat": 47.3556,
+                    "lng": 9.2861
+                }
+            },
+            {
+                "name": "Fabian Langenegger",
+                "role": null,
+                "residence": {
+                    "npa": "9104",
+                    "town": "Waldstatt",
+                    "canton": "AR",
+                    "lat": 47.3556,
+                    "lng": 9.2861
+                }
+            },
+            {
+                "name": "Chris River",
+                "role": null,
+                "residence": {
+                    "npa": "9104",
+                    "town": "Waldstatt",
+                    "canton": "AR",
+                    "lat": 47.3556,
+                    "lng": 9.2861
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3769",
+        "year": 2016,
+        "title": "Site Internet",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3769\/chimie.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3769\/",
+        "description": "Nous avons fait un site internet avec Wordpress. Je vous conseille fortement d'utiliser ce site.",
+        "type": "classroom",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/ludoka.ch",
+                "type": "website",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "wordpress"
+        ],
+        "members": [
+            {
+                "name": "Gabriel Luisier",
+                "role": "leader",
+                "residence": {
+                    "npa": "1792",
+                    "town": "Cordast",
+                    "canton": "FR",
+                    "lat": 46.8834,
+                    "lng": 7.1406
+                }
+            },
+            {
+                "name": "Antonin Pochon",
+                "role": null,
+                "residence": {
+                    "npa": "1741",
+                    "town": "Cottens",
+                    "canton": "FR",
+                    "lat": 46.755,
+                    "lng": 7.035
+                }
+            },
+            {
+                "name": "St\u00e9phane Fontana",
+                "role": "coach",
+                "residence": {
+                    "npa": "1482",
+                    "town": "Cugy",
+                    "canton": "FR",
+                    "lat": 46.8094,
+                    "lng": 6.8945
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3594",
+        "year": 2016,
+        "title": "SpaceMaze",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3594\/niklas_von_vorn.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3594\/",
+        "description": "Es ist ein Spiel indem du ein Labyrinth meisterst musst.\nIn dem Spiel hat es auch fiese Gegner, dessen Sch\u00fcssen du ausweichen und sie mit deinen Sch\u00fcssen bombardieren kannst.\nDu kannst mit Marker, dir die Wege durch verwirrende Labyrinthe erleichtern. (Musst daf\u00fcr bezahlen mit den Coins)\nund am e",
+        "type": "independent",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3594\/spacemaze.zip",
+                "type": "file",
+                "title": "Die .exe-Datei befindet sich im .zip-Ordner,  ausserdem ist das Spiel auf Englisch, weil fanden dass das besser t\u00f6nt.  Wir entschuldigen uns f\u00fcr Rechtschreibfehler."
+            }
+        ],
+        "technologies": [
+            "game-maker"
+        ],
+        "members": [
+            {
+                "name": "Joshua Dreier",
+                "role": "leader",
+                "residence": {
+                    "npa": "9430",
+                    "town": "St.Margethen",
+                    "canton": "SG",
+                    "lat": 47.4551,
+                    "lng": 9.6256
+                }
+            },
+            {
+                "name": "Niklas Holy",
+                "role": null,
+                "residence": {
+                    "npa": "9430",
+                    "town": "St.Margethen",
+                    "canton": "SG",
+                    "lat": 47.4551,
+                    "lng": 9.6256
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3568",
+        "year": 2016,
+        "title": "Spechto",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3568\/1j_p1030419.190x140.jpeg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3568\/",
+        "description": "Unser Team hat einen Roboter gebaut der bestimmte Zahlen schreiben kann z.b. eine 0.",
+        "type": "classroom",
+        "category": "installation-robotic",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3568\/specht.mp4",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "imovie",
+            "lego",
+            "mindstorms"
+        ],
+        "members": [
+            {
+                "name": "Jessy K\u00fchnel",
+                "role": "leader",
+                "residence": {
+                    "npa": "8852",
+                    "town": "Altendorf",
+                    "canton": "SZ",
+                    "lat": 47.1783,
+                    "lng": 8.8256
+                }
+            },
+            {
+                "name": "Mattia Bruhin",
+                "role": null,
+                "residence": {
+                    "npa": "8852",
+                    "town": "Altendorf",
+                    "canton": "SZ",
+                    "lat": 47.1783,
+                    "lng": 8.8256
+                }
+            },
+            {
+                "name": "Severin Leuzinger",
+                "role": null,
+                "residence": {
+                    "npa": "8852",
+                    "town": "Altendorf",
+                    "canton": "SZ",
+                    "lat": 47.1783,
+                    "lng": 8.8256
+                }
+            },
+            {
+                "name": "Monika Schmucki",
+                "role": "coach",
+                "residence": {
+                    "npa": "8852",
+                    "town": "Altendorf",
+                    "canton": "SZ",
+                    "lat": 47.1783,
+                    "lng": 8.8256
+                }
+            },
+            {
+                "name": "Benjamin McAvoy",
+                "role": null,
+                "residence": {
+                    "npa": "8852",
+                    "town": "Altendorf",
+                    "canton": "SZ",
+                    "lat": 47.1783,
+                    "lng": 8.8256
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3947",
+        "year": 2016,
+        "title": "The lost plane",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3947\/stage.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3947\/",
+        "description": "Eines Tages flog Oskar, der Pilot, \u00fcber den Amazonas. Pl\u00f6tzlich machte der Motor seltsame Ger\u00e4usche. Oskar konnte das Flugzeug nicht mehr steuern.   Er st\u00fctzte ab.  Er hatte gerade noch Zeit, den Fallschirm zu holen und zu springen. Kannst du ihm helfen, die Teile seines Flugzeuges zu finden?",
+        "type": "classroom",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/scratch.mit.edu\/projects\/103321373\/",
+                "type": "website",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "scratch"
+        ],
+        "members": [
+            {
+                "name": "Manuel Artola",
+                "role": "leader",
+                "residence": {
+                    "npa": "8700",
+                    "town": "K\u00fcsnacht",
+                    "canton": "ZH",
+                    "lat": 47.3196,
+                    "lng": 8.5899
+                }
+            },
+            {
+                "name": "Leo Liatowitsch",
+                "role": null,
+                "residence": {
+                    "npa": "8700",
+                    "town": "K\u00fcsnacht",
+                    "canton": "ZH",
+                    "lat": 47.3196,
+                    "lng": 8.5899
+                }
+            },
+            {
+                "name": "Dario Schmutz",
+                "role": null,
+                "residence": {
+                    "npa": "8700",
+                    "town": "K\u00fcsnacht",
+                    "canton": "AG",
+                    "lat": 47.3196,
+                    "lng": 8.5899
+                }
+            },
+            {
+                "name": "Mark Mihaljevic",
+                "role": null,
+                "residence": {
+                    "npa": "8700",
+                    "town": "K\u00fcsnacht",
+                    "canton": "ZH",
+                    "lat": 47.3196,
+                    "lng": 8.5899
+                }
+            },
+            {
+                "name": "Annie Bissonnette",
+                "role": "coach",
+                "residence": {
+                    "npa": "8803",
+                    "town": "R\u00fcschlikon",
+                    "canton": "ZH",
+                    "lat": 47.3059,
+                    "lng": 8.5556
+                }
+            },
+            {
+                "name": "Dominik Olah",
+                "role": "coach",
+                "residence": {
+                    "npa": "8700",
+                    "town": "K\u00fcsnacht",
+                    "canton": "ZH",
+                    "lat": 47.3196,
+                    "lng": 8.5899
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3514",
+        "year": 2016,
+        "title": "Think green recycle now",
+        "age_category": "kids",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3514\/im_flug.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3514\/",
+        "description": "Eigentlich werfen wir alles weg was man noch brauchen k\u00f6nnte z.B Essen, Flaschen aber auch Karton. Ich habe aber die neuste Erfindung... Karton- Skateboard, Karton- Gitarre und vieles mehr. Darum sag ich nur eins. \"Think green recycle now!\"",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3514\/videorecyclingmail.mp4",
+                "type": "video",
+                "title": "Think green- recycle now! ein Video von Anik Arman"
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3514\/beim_fl_gelmalen.jpg",
+                "type": null,
+                "title": null
+            }
+        ],
+        "technologies": [
+            "stop-motion"
+        ],
+        "members": [
+            {
+                "name": "Anik Arman",
+                "role": "leader",
+                "residence": {
+                    "npa": "8038",
+                    "town": "Z\u00fcrich",
+                    "canton": "ZH",
+                    "lat": 47.3416,
+                    "lng": 8.5369
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:4060",
+        "year": 2016,
+        "title": "TicTacToe",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4060\/bugnplaybild1.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/4060\/",
+        "description": "Programmierung des Computerspiels namens \"TicTacToe\". \n\nSprache: C++\nZiel: Grafische Ausgabe des Spielfelds und verschiedene Schwierigkeitsstufen des Computers.",
+        "type": "independent",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4060\/bugnplay_tictactoe.zip",
+                "type": "file",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4060\/anleitung_tictactoe.pdf",
+                "type": null,
+                "title": "Anleitung"
+            }
+        ],
+        "technologies": [
+            "cpp"
+        ],
+        "members": [
+            {
+                "name": "Marco Gabriel",
+                "role": "leader",
+                "residence": {
+                    "npa": "6370",
+                    "town": "Oberdorf",
+                    "canton": "NW",
+                    "lat": 46.9515,
+                    "lng": 8.3893
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3527",
+        "year": 2016,
+        "title": "Trickfilm",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3527\/img_2076.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3527\/",
+        "description": "Mit i-stop-Motion einen Trickfilm realisieren.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3527\/sumsum_h264_24fps.mov",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "stop-motion"
+        ],
+        "members": [
+            {
+                "name": "Andrin Casutt",
+                "role": "leader",
+                "residence": {
+                    "npa": "7302",
+                    "town": "Landquart",
+                    "canton": "GR",
+                    "lat": 46.9614,
+                    "lng": 9.5749
+                }
+            },
+            {
+                "name": "Mauro Repole",
+                "role": null,
+                "residence": {
+                    "npa": "7204",
+                    "town": "Untervaz",
+                    "canton": "GR",
+                    "lat": 46.9214,
+                    "lng": 9.5177
+                }
+            },
+            {
+                "name": "Ursin Casutt",
+                "role": null,
+                "residence": {
+                    "npa": "7302",
+                    "town": "Landquart",
+                    "canton": "GR",
+                    "lat": 46.9614,
+                    "lng": 9.5749
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3724",
+        "year": 2016,
+        "title": "UNLESS...",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3724\/image1.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3724\/",
+        "description": "Ce film m\u00e9taphorise la soci\u00e9t\u00e9 actuelle au travers d'un petit animal attachant voulant ressembler aux autres pour se donner une raison d'exister.",
+        "type": "independent",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3724\/final-render_04_0001-3922.mov",
+                "type": "video",
+                "title": "Film complet FullHD"
+            }
+        ],
+        "technologies": [
+            "gimp",
+            "blender",
+            "audacity"
+        ],
+        "members": [
+            {
+                "name": "Tim Winkelmann",
+                "role": "leader",
+                "residence": {
+                    "npa": "2856",
+                    "town": "Bo\u00e9court",
+                    "canton": "JU",
+                    "lat": 47.3582,
+                    "lng": 7.2163
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:4029",
+        "year": 2016,
+        "title": "verkehrte Welt",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4029\/edgar1.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/4029\/",
+        "description": "Trickfilm",
+        "type": "classroom",
+        "category": "audio-video",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4029\/filmedgar_def2.wmv",
+                "type": "video",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "windows-movie-maker",
+            "garageband"
+        ],
+        "members": [
+            {
+                "name": "Edgar Br\u00e4ndle",
+                "role": "leader",
+                "residence": {
+                    "npa": "3012",
+                    "town": "Bern",
+                    "canton": "BE",
+                    "lat": 46.9616,
+                    "lng": 7.426
+                }
+            },
+            {
+                "name": "Katharina W\u00fcthrich Neftel",
+                "role": "coach",
+                "residence": {
+                    "npa": "3014",
+                    "town": "Bern",
+                    "canton": "BE",
+                    "lat": 46.9622,
+                    "lng": 7.4584
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3511",
+        "year": 2016,
+        "title": "Vocabulary Coach",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3511\/unbenannt.190x140.png",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3511\/",
+        "description": "Vocabulary Coach ist ein Lernprogramm, dass das Voci lernen vereinfacht. Macht das m\u00fchsame Lernen leichter. Ausserdem enth\u00e4lt es noch viel mehr Funktionen.",
+        "type": "independent",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3511\/bugnplay_vocabulary_coach_anleitung-1.pdf",
+                "type": null,
+                "title": "Projekt (Link) und Anleitung (Datei)"
+            },
+            {
+                "url": "http:\/\/scratch.mit.edu\/projects\/74565602\/",
+                "type": "website",
+                "title": "Projekt (Link) und Anleitung (Datei)"
+            }
+        ],
+        "technologies": [
+            "scratch"
+        ],
+        "members": [
+            {
+                "name": "Luis Maltsis",
+                "role": "leader",
+                "residence": {
+                    "npa": "8006",
+                    "town": "Zuerich",
+                    "canton": "ZH",
+                    "lat": 47.3858,
+                    "lng": 8.5432
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:3935",
+        "year": 2016,
+        "title": "Von der Idee zum fertigen Modellluftschiff",
+        "age_category": "seniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3935\/plan_steuerung_luftschiff.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/3935\/",
+        "description": "Im Rahmen meiner Maturaarbeit habe ich von Grund auf ein Modellluftschiff konstruiert und anschliessend gebaut. Es gab viel zu experimentieren und herauszufinden. Ich wollte aus allt\u00e4glichen Gegenst\u00e4nden ein Luftschiff bauen, wie es jeder nachmachen kann.",
+        "type": "matu",
+        "category": "installation-robotic",
+        "links": [
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3935\/luftschiff.mp4",
+                "type": "video",
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3935\/von_der_idee_zum_fertigen_modellluftschiff.pdf",
+                "type": null,
+                "title": null
+            }
+        ],
+        "technologies": [
+
+        ],
+        "members": [
+            {
+                "name": "Florian Moors",
+                "role": "leader",
+                "residence": {
+                    "npa": "8408",
+                    "town": "Winterthur",
+                    "canton": "ZH",
+                    "lat": 47.5077,
+                    "lng": 8.6833
+                }
+            }
+        ]
+    },
+    {
+        "uid": "2:4032",
+        "year": 2016,
+        "title": "Webseite f\u00fcr einen Jugendverein",
+        "age_category": "juniors",
+        "cover_image": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/4032\/startseite.190x140.jpg",
+        "url": "http:\/\/www.bugnplay.ch\/pms\/fr\/minisite\/4032\/",
+        "description": "Eine Webseite f\u00fcr den Verein \"Jugendkultur Ofenhalle\" realisiert mit den Programmiersprachen HTML, CSS, Javascript und PHP.\n\nWeitere Ausf\u00fchrungen auf der Seite \"Beschreibung\".",
+        "type": "independent",
+        "category": "web-words-games",
+        "links": [
+            {
+                "url": "http:\/\/www.jugendkultur-ofenhalle.ch\/new",
+                "type": "website",
+                "title": null
+            }
+        ],
+        "technologies": [
+            "php",
+            "javascript",
+            "xampp"
+        ],
+        "members": [
+            {
+                "name": "Roman Siegenthaler",
+                "role": "leader",
+                "residence": {
+                    "npa": "8047",
+                    "town": "Z\u00fcrich",
+                    "canton": "ZH",
+                    "lat": 47.3739,
+                    "lng": 8.487
+                }
+            }
+        ]
+    },
+    {
         "uid": "2:2767",
         "year": 2015,
         "title": "\"Hidden Sweetness\" - ein vielseitiges Musikalbum",
@@ -1446,6 +4882,11 @@
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3335\/die_dracheninsel.mov",
                 "type": "video",
                 "title": "Video- Die Dracheninsel"
+            },
+            {
+                "url": "http:\/\/scratch.mit.edu\/projects\/55211026\/",
+                "type": "video",
+                "title": "Video- Die Dracheninsel"
             }
         ],
         "technologies": [
@@ -1719,6 +5160,11 @@
             {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3006\/maturaarbeit_begleitdokument.pdf",
                 "type": null,
+                "title": "Begleitdokument zur Maturaarbeit"
+            },
+            {
+                "url": "http:\/\/itunes.apple.com\/ch\/app\/lerbermatt\/id921371549?mt=8",
+                "type": "website",
                 "title": "Begleitdokument zur Maturaarbeit"
             },
             {
@@ -2013,6 +5459,11 @@
             {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/2885\/flatpatch_dokumentation.pdf",
                 "type": null,
+                "title": null
+            },
+            {
+                "url": "http:\/\/flatpatch.hexcode.ch\/",
+                "type": "website",
                 "title": null
             }
         ],
@@ -2323,6 +5774,11 @@
             {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/2881\/bouncyadventure_exe.zip",
                 "type": null,
+                "title": "Es handelt sich bei diesem .zip file nur um das eigentliche Spiel selber. L\u00f6sungsvideos, die Maturarbeit und anderes m\u00fcssen von der &quot;Projekt-URL&quot; heruntergeladen werden."
+            },
+            {
+                "url": "http:\/\/dropbox.com\/sh\/lz1qhgs7g9pmvhd\/AADWnap5a1ju_SIA30PyvN9Ka?dl=0",
+                "type": "website",
                 "title": "Es handelt sich bei diesem .zip file nur um das eigentliche Spiel selber. L\u00f6sungsvideos, die Maturarbeit und anderes m\u00fcssen von der &quot;Projekt-URL&quot; heruntergeladen werden."
             },
             {
@@ -2769,6 +6225,11 @@
                 "title": "Kurze Vorf\u00fchrung des Automaten"
             },
             {
+                "url": "http:\/\/www.srf.ch\/wissen\/digital\/katzenfuetterungsautomat-sanch-o-mat-aber-schnurrli",
+                "type": "video",
+                "title": "Kurze Vorf\u00fchrung des Automaten"
+            },
+            {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3064\/katzenautomat.pdf",
                 "type": null,
                 "title": "Dokumentation zum Projekt"
@@ -3120,6 +6581,11 @@
             {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/2558\/m_llotopia_sb2.zip",
                 "type": null,
+                "title": null
+            },
+            {
+                "url": "http:\/\/scratch.mit.edu\/projects\/48184260\/?fromexplore=true",
+                "type": "website",
                 "title": null
             }
         ],
@@ -3732,6 +7198,11 @@
                 "title": null
             },
             {
+                "url": "https:\/\/youtu.be\/IJep40llWww",
+                "type": "video",
+                "title": null
+            },
+            {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3263\/1.jpg",
                 "type": null,
                 "title": null
@@ -3900,6 +7371,11 @@
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/2566\/s_o_p_sb2.zip",
                 "type": null,
                 "title": "Programm um die entpakte Datei zu \u00f6ffnen: https:\/\/scratch.mit.edu\/scratch2download\/"
+            },
+            {
+                "url": "http:\/\/scratch.mit.edu\/projects\/53741718\/",
+                "type": "website",
+                "title": "Programm um die entpakte Datei zu \u00f6ffnen: https:\/\/scratch.mit.edu\/scratch2download\/"
             }
         ],
         "technologies": [
@@ -3973,6 +7449,11 @@
             {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/3044\/projektplan_001.zip",
                 "type": null,
+                "title": "Das ist mein Projektplan zu smasch jump"
+            },
+            {
+                "url": "http:\/\/scratch.mit.edu\/projects\/55180462\/",
+                "type": "website",
                 "title": "Das ist mein Projektplan zu smasch jump"
             }
         ],
@@ -4380,6 +7861,11 @@
             {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/2681\/vermittlungs-website.pdf",
                 "type": null,
+                "title": null
+            },
+            {
+                "url": "http:\/\/www.lehrenundlernen.ch",
+                "type": "website",
                 "title": null
             }
         ],
@@ -5042,6 +8528,11 @@
                 "title": null
             },
             {
+                "url": "http:\/\/www.dropbox.com\/sh\/ae91qtqgzpicuur\/3GXULaExT8",
+                "type": "website",
+                "title": null
+            },
+            {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/1521\/lizenz-sammlung.pdf",
                 "type": null,
                 "title": "Lizenz-Sammlung"
@@ -5139,6 +8630,11 @@
                 "title": "Wenn man diese Datei entzippt, so erh\u00e4lt man eine .apk Datei, die man entweder auf einem Android-ger\u00e4t speichern und dann \u00f6ffnen, oder per Emulator spielen kann."
             },
             {
+                "url": "http:\/\/play.google.com\/store\/apps\/details?id=ch.epicodes.ma2013mp",
+                "type": "website",
+                "title": "Wenn man diese Datei entzippt, so erh\u00e4lt man eine .apk Datei, die man entweder auf einem Android-ger\u00e4t speichern und dann \u00f6ffnen, oder per Emulator spielen kann."
+            },
+            {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/1858\/construction_flowchart_crunched.png",
                 "type": null,
                 "title": null
@@ -5179,8 +8675,18 @@
                 "title": "Der Source-Code unseres Spiels."
             },
             {
+                "url": "http:\/\/bit.ly\/1h5h6Vr",
+                "type": "website",
+                "title": "Der Source-Code unseres Spiels."
+            },
+            {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/1952\/source-1.zip",
                 "type": null,
+                "title": null
+            },
+            {
+                "url": "http:\/\/bit.ly\/1h5h6Vr",
+                "type": "website",
                 "title": null
             },
             {
@@ -5428,6 +8934,11 @@
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/2127\/das_bauernhaus_brennt.mp4",
                 "type": "video",
                 "title": "Video - Der Bauernhof brennt"
+            },
+            {
+                "url": "http:\/\/scratch.mit.edu\/projects\/20131049\/",
+                "type": "video",
+                "title": "Video - Der Bauernhof brennt"
             }
         ],
         "technologies": [
@@ -5518,6 +9029,11 @@
         "links": [
             {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/2131\/der_goldene_apfel.mp4",
+                "type": "video",
+                "title": "Video - Der goldene Apfel"
+            },
+            {
+                "url": "http:\/\/scratch.mit.edu\/projects\/20177680\/",
                 "type": "video",
                 "title": "Video - Der goldene Apfel"
             }
@@ -6192,6 +9708,11 @@
                 "title": null
             },
             {
+                "url": "http:\/\/chez-mathi.e-monsite.com\/pages\/la-page-des-enfants.html",
+                "type": "website",
+                "title": null
+            },
+            {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/1770\/mybitmap2.jpg",
                 "type": null,
                 "title": null
@@ -6295,6 +9816,11 @@
         "links": [
             {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/2087\/gold_la_sst_uns_hungrig_bleiben.mp4",
+                "type": "video",
+                "title": "Video - Gold l\u00e4sst uns hungrig bleiben"
+            },
+            {
+                "url": "http:\/\/scratch.mit.edu\/projects\/20110675\/#editor",
                 "type": "video",
                 "title": "Video - Gold l\u00e4sst uns hungrig bleiben"
             },
@@ -6768,6 +10294,11 @@
         "links": [
             {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/2151\/karlson_ist_unebliebt.mp4",
+                "type": "video",
+                "title": "Video - Karlson ist unbeliebt"
+            },
+            {
+                "url": "http:\/\/scratch.mit.edu\/projects\/20178656\/",
                 "type": "video",
                 "title": "Video - Karlson ist unbeliebt"
             }
@@ -7383,6 +10914,11 @@
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/2010\/bugnplaytrailerfinal.mov",
                 "type": "video",
                 "title": "Dies ist nur der Trailer:    Der echte Film ist hier zu sehen: https:\/\/www.youtube.com\/watch?v=DKsX_Cc7m1g&list=UUgipf1iW0in_p6ZFpVplGEQ"
+            },
+            {
+                "url": "https:\/\/www.youtube.com\/watch?v=Pwx2dL6TjFI&list=UUgipf1iW0in_p6ZFpVplGEQ",
+                "type": "video",
+                "title": "Dies ist nur der Trailer:    Der echte Film ist hier zu sehen: https:\/\/www.youtube.com\/watch?v=DKsX_Cc7m1g&list=UUgipf1iW0in_p6ZFpVplGEQ"
             }
         ],
         "technologies": [
@@ -7574,6 +11110,11 @@
         "links": [
             {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/2143\/nycki_ist_unbelibt.mp4",
+                "type": "video",
+                "title": "Video - Nycki ist unbelibt"
+            },
+            {
+                "url": "http:\/\/scratch.mit.edu\/projects\/20175978\/",
                 "type": "video",
                 "title": "Video - Nycki ist unbelibt"
             },
@@ -8597,6 +12138,11 @@
             {
                 "url": "http:\/\/www.bugnplay.ch\/pms\/site\/assets\/files\/2030\/theglovewebsetup.zip",
                 "type": null,
+                "title": "F\u00fcr die Installation ist eine aktive Internetverbindung erforderlich."
+            },
+            {
+                "url": "http:\/\/theglove.pfweb.eu\/",
+                "type": "website",
                 "title": "F\u00fcr die Installation ist eine aktive Internetverbindung erforderlich."
             },
             {
