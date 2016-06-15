@@ -4,7 +4,7 @@
  * @license MIT
  */
 
-/* global React */
+/* global $, React */
 
 var technologies = [{
 	category: 'Graphics',
